@@ -107,12 +107,12 @@ def random_seq(n):
 def rna_split(rna_string):
     start = start_codons(rna_string[:])
     stop = stop_codons(rna_string[:], start)
-    print('Inital start, stop=',start, stop)
+    #print('Inital start, stop=',start, stop)
     if start and stop:
         start.sort()
         stop.sort()
         remove_invalid_starts(start,stop)
-        print('Corrected start, stop=',start, stop)
+        #print('Corrected start, stop=',start, stop)
         rna_slices=[]
         for start_idx in start:
             for stop_idx in stop:
