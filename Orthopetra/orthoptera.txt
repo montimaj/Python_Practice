@@ -1,0 +1,1052 @@
+﻿FAMILY NAME;SPECIES/SUBSPECIES;GENUS NAME;SUBGENUS NAME;SPECIES NAME;SUBSPECIES NAME;AUTHORSHIP
+Acrididae;Acanthacris ruficornis (Fabricius, 1787);Acanthacris;;ruficornis;;(Fabricius, 1787)
+Acrididae;Acrida bicolor (Thunberg, 1815);Acrida;;bicolor;;(Thunberg, 1815)
+Acrididae;Acrida oxycephala (Pallas, 1771);Acrida;;oxycephala;;(Pallas, 1771)
+Acrididae;Acrida turrita (Linnaeus, 1758);Acrida;;turrita;;(Linnaeus, 1758)
+Acrididae;Acrida ungarica (Herbst, 1786);Acrida;;ungarica;;(Herbst, 1786)
+Acrididae;Acrotylus fischeri Azam, 1901;Acrotylus;;fischeri;;Azam, 1901
+Acrididae;Acrotylus insubricus (Scopoli, 1786);Acrotylus;;insubricus;;(Scopoli, 1786)
+Acrididae;Acrotylus longipes (Charpentier, 1845);Acrotylus;;longipes;;(Charpentier, 1845)
+Acrididae;Acrotylus patruelis (Herrich-Schäffer, 1838);Acrotylus;;patruelis;;(Herrich-Schäffer, 1838)
+Acrididae;Aeropedellus variegatus (Fischer de Waldheim, 1846);Aeropedellus;;variegatus;;(Fischer de Waldheim, 1846)
+Acrididae;Aeropedellus volgensis (Predtetshenskii, 1928);Aeropedellus;;volgensis;;(Predtetshenskii, 1928)
+Acrididae;Aiolopus simulatrix (Walker, 1870);Aiolopus;;simulatrix;;(Walker, 1870)
+Acrididae;Aiolopus strepens (Latreille, 1804);Aiolopus;;strepens;;(Latreille, 1804)
+Acrididae;Aiolopus thalassinus (Fabricius, 1781);Aiolopus;;thalassinus;;(Fabricius, 1781)
+Acrididae;Anacridium aegyptium (Linnaeus, 1764);Anacridium;;aegyptium;;(Linnaeus, 1764)
+Acrididae;Anganacris barabensis (Pallas, 1773);Anganacris;;barabensis;;(Pallas, 1773)
+Acrididae;Arcyptera (Arcyptera) fusca (Pallas, 1773);Arcyptera;Arcyptera;fusca;;(Pallas, 1773)
+Acrididae;Arcyptera (Arcyptera) tornosi Bolívar, 1884;Arcyptera;Arcyptera;tornosi;;Bolívar, 1884
+Acrididae;Arcyptera (Pararcyptera) brevipennis (Brunner von Wattenwyl, 1861);Arcyptera;Pararcyptera;brevipennis;;(Brunner von Wattenwyl, 1861)
+Acrididae;Arcyptera (Pararcyptera) labiata (Brullé, 1832);Arcyptera;Pararcyptera;labiata;;(Brullé, 1832)
+Acrididae;Arcyptera (Pararcyptera) microptera (Fischer de Waldheim, 1833);Arcyptera;Pararcyptera;microptera;;(Fischer de Waldheim, 1833)
+Acrididae;Arminda (Arminda) brunneri Krauss, 1892;Arminda;Arminda;brunneri;;Krauss, 1892
+Acrididae;Arminda (Arminda) burri Uvarov, 1935;Arminda;Arminda;burri;;Uvarov, 1935
+Acrididae;Arminda (Arminda) fuerteventurae Holzapfel, 1972;Arminda;Arminda;fuerteventurae;;Holzapfel, 1972
+Acrididae;Arminda (Arminda) hierroensis Enderlein, 1930;Arminda;Arminda;hierroensis;;Enderlein, 1930
+Acrididae;Arminda (Arminda) lancerottensis Holzapfel, 1972;Arminda;Arminda;lancerottensis;;Holzapfel, 1972
+Acrididae;Arminda (Arminda) latifrons Enderlein, 1930;Arminda;Arminda;latifrons;;Enderlein, 1930
+Acrididae;Arminda (Chopardminda) canariensis Morales Agacino, 1941;Arminda;Chopardminda;canariensis;;Morales Agacino, 1941
+Acrididae;Bohemanella frigida (Boheman, 1846);Bohemanella;;frigida;;(Boheman, 1846)
+Acrididae;Brachycrotaphus tryxalicerus (Fischer, 1853);Brachycrotaphus;;tryxalicerus;;(Fischer, 1853)
+Acrididae;Bryodemella tuberculata (Fabricius, 1775);Bryodemella;;tuberculata;;(Fabricius, 1775)
+Acrididae;Calephorus compressicornis (Latreille, 1804);Calephorus;;compressicornis;;(Latreille, 1804)
+Acrididae;Calliptamus barbarus (Costa, 1836);Calliptamus;;barbarus;;(Costa, 1836)
+Acrididae;Calliptamus coelesyriensis (Giglio-Tos, 1893);Calliptamus;;coelesyriensis;;(Giglio-Tos, 1893)
+Acrididae;Calliptamus italicus (Linnaeus, 1758);Calliptamus;;italicus;;(Linnaeus, 1758)
+Acrididae;Calliptamus madeirae Uvarov, 1937;Calliptamus;;madeirae;;Uvarov, 1937
+Acrididae;Calliptamus plebeius (Walker, 1870);Calliptamus;;plebeius;;(Walker, 1870)
+Acrididae;Calliptamus siciliae Ramme, 1927;Calliptamus;;siciliae;;Ramme, 1927
+Acrididae;Calliptamus tenuicercis Tarbinskii, 1930;Calliptamus;;tenuicercis;;Tarbinskii, 1930
+Acrididae;Calliptamus wattenwylianus (Pantel, 1896);Calliptamus;;wattenwylianus;;(Pantel, 1896)
+Acrididae;Celes variabilis (Pallas, 1771);Celes;;variabilis;;(Pallas, 1771)
+Acrididae;Chorthippus acroleucus (Müller, 1924);Chorthippus;;acroleucus;;(Müller, 1924)
+Acrididae;Chorthippus albomarginatus (De Geer, 1773);Chorthippus;;albomarginatus;;(De Geer, 1773)
+Acrididae;Chorthippus alticola alticola Ramme, 1921;Chorthippus;;alticola;alticola;Ramme, 1921
+Acrididae;Chorthippus alticola rammei (Ebner, 1928);Chorthippus;;alticola;rammei;(Ebner, 1928)
+Acrididae;Chorthippus alticola Ramme, 1921;Chorthippus;;alticola;;Ramme, 1921
+Acrididae;Chorthippus apicalis (Herrich-Schäffer, 1840);Chorthippus;;apicalis;;(Herrich-Schäffer, 1840)
+Acrididae;Chorthippus apricarius (Linnaeus, 1758);Chorthippus;;apricarius;;(Linnaeus, 1758)
+Acrididae;Chorthippus ariasi (Bolívar, 1908);Chorthippus;;ariasi;;(Bolívar, 1908)
+Acrididae;Chorthippus biguttulus (Linnaeus, 1758);Chorthippus;;biguttulus;;(Linnaeus, 1758)
+Acrididae;Chorthippus binotatus (Charpentier, 1825);Chorthippus;;binotatus;;(Charpentier, 1825)
+Acrididae;Chorthippus biroi (Kuthy, 1907);Chorthippus;;biroi;;(Kuthy, 1907)
+Acrididae;Chorthippus bornhalmi Harz, 1971;Chorthippus;;bornhalmi;;Harz, 1971
+Acrididae;Chorthippus brunneus (Thunberg, 1815);Chorthippus;;brunneus;;(Thunberg, 1815)
+Acrididae;Chorthippus bruttius Fontana & La Greca, 1999;Chorthippus;;bruttius;;Fontana & La Greca, 1999
+Acrididae;Chorthippus cazurroi (Bolívar, 1898);Chorthippus;;cazurroi;;(Bolívar, 1898)
+Acrididae;Chorthippus chloroticus (Bolívar, 1908);Chorthippus;;chloroticus;;(Bolívar, 1908)
+Acrididae;Chorthippus cialancensis Nadig, 1986;Chorthippus;;cialancensis;;Nadig, 1986
+Acrididae;Chorthippus corsicus (Chopard, 1923);Chorthippus;;corsicus;;(Chopard, 1923)
+Acrididae;Chorthippus crassiceps (Ramme, 1926);Chorthippus;;crassiceps;;(Ramme, 1926)
+Acrididae;Chorthippus cypriotus Uvarov, 1936;Chorthippus;;cypriotus;;Uvarov, 1936
+Acrididae;Chorthippus dichrous (Eversmann, 1859);Chorthippus;;dichrous;;(Eversmann, 1859)
+Acrididae;Chorthippus dorsatus (Zetterstedt, 1821);Chorthippus;;dorsatus;;(Zetterstedt, 1821)
+Acrididae;Chorthippus dubius (Zubovskii, 1898);Chorthippus;;dubius;;(Zubovskii, 1898)
+Acrididae;Chorthippus eisentrauti (Ramme, 1931);Chorthippus;;eisentrauti;;(Ramme, 1931)
+Acrididae;Chorthippus jacobsi Harz, 1975;Chorthippus;;jacobsi;;Harz, 1975
+Acrididae;Chorthippus jucundus (Fischer, 1853);Chorthippus;;jucundus;;(Fischer, 1853)
+Acrididae;Chorthippus jutlandica Fogh Nielsen, 2003;Chorthippus;;jutlandica;;Fogh Nielsen, 2003
+Acrididae;Chorthippus karelini (Uvarov, 1910);Chorthippus;;karelini;;(Uvarov, 1910)
+Acrididae;Chorthippus lacustris La Greca & Messina, 1975;Chorthippus;;lacustris;;La Greca & Messina, 1975
+Acrididae;Chorthippus lesinensis (Krauss, 1888);Chorthippus;;lesinensis;;(Krauss, 1888)
+Acrididae;Chorthippus loratus (Fischer de Waldheim, 1846);Chorthippus;;loratus;;(Fischer de Waldheim, 1846)
+Acrididae;Chorthippus macrocerus (Fischer de Waldheim, 1846);Chorthippus;;macrocerus;;(Fischer de Waldheim, 1846)
+Acrididae;Chorthippus maritimus Mistshenko, 1951;Chorthippus;;maritimus;;Mistshenko, 1951
+Acrididae;Chorthippus messinai (La Greca, di Mauro, Viglianisi & Monelli, 2000);Chorthippus;;messinai;;(La Greca, di Mauro, Viglianisi & Monelli, 2000)
+Acrididae;Chorthippus mollis (Charpentier, 1825);Chorthippus;;mollis;;(Charpentier, 1825)
+Acrididae;Chorthippus montanus (Charpentier, 1825);Chorthippus;;montanus;;(Charpentier, 1825)
+Acrididae;Chorthippus nevadensis Pascual, 1978;Chorthippus;;nevadensis;;Pascual, 1978
+Acrididae;Chorthippus oschei Helversen, 1986;Chorthippus;;oschei;;Helversen, 1986
+Acrididae;Chorthippus parallelus erythropus Faber, 1958;Chorthippus;;parallelus;erythropus;Faber, 1958
+Acrididae;Chorthippus parallelus parallelus (Zetterstedt, 1821);Chorthippus;;parallelus;parallelus;(Zetterstedt, 1821)
+Acrididae;Chorthippus parallelus tenuis (Brullé, 1832);Chorthippus;;parallelus;tenuis;(Brullé, 1832)
+Acrididae;Chorthippus parallelus (Zetterstedt, 1821);Chorthippus;;parallelus;;(Zetterstedt, 1821)
+Acrididae;Chorthippus porphyropterus euhedickei (Helversen, 1989);Chorthippus;;porphyropterus;euhedickei;(Helversen, 1989)
+Acrididae;Chorthippus porphyropterus porphyropterus (Vorontzovsky, 1928);Chorthippus;;porphyropterus;porphyropterus;(Vorontzovsky, 1928)
+Acrididae;Chorthippus porphyropterus (Vorontzovsky, 1928);Chorthippus;;porphyropterus;;(Vorontzovsky, 1928)
+Acrididae;Chorthippus pulloides (Ramme, 1926);Chorthippus;;pulloides;;(Ramme, 1926)
+Acrididae;Chorthippus pullus (Philippi, 1830);Chorthippus;;pullus;;(Philippi, 1830)
+Acrididae;Chorthippus reissingeri Harz, 1972;Chorthippus;;reissingeri;;Harz, 1972
+Acrididae;Chorthippus rubratibialis Schmidt, 1978;Chorthippus;;rubratibialis;;Schmidt, 1978
+Acrididae;Chorthippus sangiorgii (Finot, 1902);Chorthippus;;sangiorgii;;(Finot, 1902)
+Acrididae;Chorthippus tatrae Harz, 1971;Chorthippus;;tatrae;;Harz, 1971
+Acrididae;Chorthippus trinacriae (La Greca, di Mauro, Viglianisi & Monelli, 2000);Chorthippus;;trinacriae;;(La Greca, di Mauro, Viglianisi & Monelli, 2000)
+Acrididae;Chorthippus vagans (Eversmann, 1848);Chorthippus;;vagans;;(Eversmann, 1848)
+Acrididae;Chorthippus willemsei Harz, 1971;Chorthippus;;willemsei;;Harz, 1971
+Acrididae;Chorthippus yersini Harz, 1975;Chorthippus;;yersini;;Harz, 1975
+Acrididae;Chortopodisma cobellii (Krauss, 1883);Chortopodisma;;cobellii;;(Krauss, 1883)
+Acrididae;Chrysochraon beybienkoi Galvagni, 1968;Chrysochraon;;beybienkoi;;Galvagni, 1968
+Acrididae;Chrysochraon dispar (Germar, 1834);Chrysochraon;;dispar;;(Germar, 1834)
+Acrididae;Cophopodisma ibera Ramme, 1951;Cophopodisma;;ibera;;Ramme, 1951
+Acrididae;Cophopodisma pyrenaea (Fischer, 1853);Cophopodisma;;pyrenaea;;(Fischer, 1853)
+Acrididae;Dericorys carthagenovae Bolívar, 1877;Dericorys;;carthagenovae;;Bolívar, 1877
+Acrididae;Dericorys lobata (Brullé, 1840);Dericorys;;lobata;;(Brullé, 1840)
+Acrididae;Dericorys tibialis (Pallas, 1773);Dericorys;;tibialis;;(Pallas, 1773)
+Acrididae;Dociostaurus brevicollis (Eversmann, 1848);Dociostaurus;;brevicollis;;(Eversmann, 1848)
+Acrididae;Dociostaurus crassiusculus (Pantel, 1886);Dociostaurus;;crassiusculus;;(Pantel, 1886)
+Acrididae;Dociostaurus genei (Ocskay, 1833);Dociostaurus;;genei;;(Ocskay, 1833)
+Acrididae;Dociostaurus hispanicus Bolívar, 1898;Dociostaurus;;hispanicus;;Bolívar, 1898
+Acrididae;Dociostaurus jagoi Soltani, 1978;Dociostaurus;;jagoi;;Soltani, 1978
+Acrididae;Dociostaurus kraussi (Ingenizkij, 1897);Dociostaurus;;kraussi;;(Ingenizkij, 1897)
+Acrididae;Dociostaurus maroccanus (Thunberg, 1815);Dociostaurus;;maroccanus;;(Thunberg, 1815)
+Acrididae;Dociostaurus minutus La Greca, 1962;Dociostaurus;;minutus;;La Greca, 1962
+Acrididae;Dociostaurus monserrati Garcia & Presa, 1984;Dociostaurus;;monserrati;;Garcia & Presa, 1984
+Acrididae;Dociostaurus tartarus Uvarov, 1921;Dociostaurus;;tartarus;;Uvarov, 1921
+Acrididae;Duroniella carinata Mistshenko, 1951;Duroniella;;carinata;;Mistshenko, 1951
+Acrididae;Duroniella fracta (Krauss, 1890);Duroniella;;fracta;;(Krauss, 1890)
+Acrididae;Duroniella kalmyka (Adelung, 1906);Duroniella;;kalmyka;;(Adelung, 1906)
+Acrididae;Duroniella laticornis (Krauss, 1909);Duroniella;;laticornis;;(Krauss, 1909)
+Acrididae;Duroniella lucasii (Bolívar, 1881);Duroniella;;lucasii;;(Bolívar, 1881)
+Acrididae;Egnatioides desertus Uvarov, 1926;Egnatioides;;desertus;;Uvarov, 1926
+Acrididae;Egnatius apicalis Stal, 1876;Egnatius;;apicalis;;Stal, 1876
+Acrididae;Epacromius coerulipes (Ivanov, 1887);Epacromius;;coerulipes;;(Ivanov, 1887)
+Acrididae;Epacromius pulverulentus (Fischer de Waldheim, 1846);Epacromius;;pulverulentus;;(Fischer de Waldheim, 1846)
+Acrididae;Epacromius tergestinus (Charpentier, 1825);Epacromius;;tergestinus;;(Charpentier, 1825)
+Acrididae;Epipodisma pedemontana (Brunner von Wattenwyl, 1882);Epipodisma;;pedemontana;;(Brunner von Wattenwyl, 1882)
+Acrididae;Eremippus comatus Mistshenko, 1951;Eremippus;;comatus;;Mistshenko, 1951
+Acrididae;Eremippus costatus Tarbinskii, 1927;Eremippus;;costatus;;Tarbinskii, 1927
+Acrididae;Eremippus miramae Tarbinskii, 1927;Eremippus;;miramae;;Tarbinskii, 1927
+Acrididae;Eremippus simplex (Eversmann, 1859);Eremippus;;simplex;;(Eversmann, 1859)
+Acrididae;Euchorthippus albolineatus siculus Ramme, 1927;Euchorthippus;;albolineatus;siculus;Ramme, 1927
+Acrididae;Euchorthippus albolineatus (Lucas, 1849);Euchorthippus;;albolineatus;;(Lucas, 1849)
+Acrididae;Euchorthippus angustulus Ramme, 1931;Euchorthippus;;angustulus;;Ramme, 1931
+Acrididae;Euchorthippus chopardi Descamps, 1968;Euchorthippus;;chopardi;;Descamps, 1968
+Acrididae;Euchorthippus declivus (Brisout de Barneville, 1848);Euchorthippus;;declivus;;(Brisout de Barneville, 1848)
+Acrididae;Euchorthippus elegantulus Zeuner, 1940;Euchorthippus;;elegantulus;;Zeuner, 1940
+Acrididae;Euchorthippus madeirae Uvarov, 1935;Euchorthippus;;madeirae;;Uvarov, 1935
+Acrididae;Euchorthippus pulvinatus (Fischer de Waldheim, 1846);Euchorthippus;;pulvinatus;;(Fischer de Waldheim, 1846)
+Acrididae;Euchorthippus sardous Nadig in Nadig & Nadig, 1934;Euchorthippus;;sardous;;Nadig in Nadig & Nadig, 1934
+Acrididae;Euthystira brachyptera (Ocskay, 1826);Euthystira;;brachyptera;;(Ocskay, 1826)
+Acrididae;Eyprepocnemis plorans (Charpentier, 1825);Eyprepocnemis;;plorans;;(Charpentier, 1825)
+Acrididae;Gomphoceridius brevipennis (Brisout de Barneville, 1858);Gomphoceridius;;brevipennis;;(Brisout de Barneville, 1858)
+Acrididae;Gomphocerippus rufus (Linnaeus, 1758);Gomphocerippus;;rufus;;(Linnaeus, 1758)
+Acrididae;Gomphocerus sibiricus (Linnaeus, 1767);Gomphocerus;;sibiricus;;(Linnaeus, 1767)
+Acrididae;Heteracris adspersa (Redtenbacher, 1889);Heteracris;;adspersa;;(Redtenbacher, 1889)
+Acrididae;Heteracris annulosa Walker, 1870;Heteracris;;annulosa;;Walker, 1870
+Acrididae;Heteracris littoralis (Rambur, 1838);Heteracris;;littoralis;;(Rambur, 1838)
+Acrididae;Hyalorrhipis canescens (Saussure, 1888);Hyalorrhipis;;canescens;;(Saussure, 1888)
+Acrididae;Hyalorrhipis clausi (Kittary, 1849);Hyalorrhipis;;clausi;;(Kittary, 1849)
+Acrididae;Hyalorrhipis schochi (Saussure, 1884);Hyalorrhipis;;schochi;;(Saussure, 1884)
+Acrididae;Italohippus albicornis (La Greca, 1948);Italohippus;;albicornis;;(La Greca, 1948)
+Acrididae;Italohippus modestus (Ebner, 1915);Italohippus;;modestus;;(Ebner, 1915)
+Acrididae;Italohippus monticola (Ebner, 1915);Italohippus;;monticola;;(Ebner, 1915)
+Acrididae;Italopodisma acuminata (La Greca, 1969);Italopodisma;;acuminata;;(La Greca, 1969)
+Acrididae;Italopodisma baccettii (La Greca, 1969);Italopodisma;;baccettii;;(La Greca, 1969)
+Acrididae;Italopodisma costae (Targioni-Tozzetti, 1881);Italopodisma;;costae;;(Targioni-Tozzetti, 1881)
+Acrididae;Italopodisma ebneri (La Greca, 1954);Italopodisma;;ebneri;;(La Greca, 1954)
+Acrididae;Italopodisma fiscellana (La Greca, 1954);Italopodisma;;fiscellana;;(La Greca, 1954)
+Acrididae;Italopodisma lagrecai (Galvagni, 1973);Italopodisma;;lagrecai;;(Galvagni, 1973)
+Acrididae;Italopodisma lucianae (Baccetti, 1959);Italopodisma;;lucianae;;(Baccetti, 1959)
+Acrididae;Italopodisma samnitica (La Greca, 1954);Italopodisma;;samnitica;;(La Greca, 1954)
+Acrididae;Italopodisma trapezoidalis (La Greca, 1966);Italopodisma;;trapezoidalis;;(La Greca, 1966)
+Acrididae;Jacobsiella imitans (Brunner von Wattenwyl, 1882);Jacobsiella;;imitans;;(Brunner von Wattenwyl, 1882)
+Acrididae;Leptopternis gracilis (Eversmann, 1848);Leptopternis;;gracilis;;(Eversmann, 1848)
+Acrididae;Locusta migratoria (Linnaeus, 1758);Locusta;;migratoria;;(Linnaeus, 1758)
+Acrididae;Mecostethus parapleurus (Hagenbach, 1822);Mecostethus;;parapleurus;;(Hagenbach, 1822)
+Acrididae;Micropodisma salamandra (Fischer, 1853);Micropodisma;;salamandra;;(Fischer, 1853)
+Acrididae;Mioscirtus wagneri (Kittary, 1859);Mioscirtus;;wagneri;;(Kittary, 1859)
+Acrididae;Miramella albanica Mistshenko, 1952;Miramella;;albanica;;Mistshenko, 1952
+Acrididae;Miramella alpina (Kollar, 1833);Miramella;;alpina;;(Kollar, 1833)
+Acrididae;Miramella carinthiaca (Puschnig, 1910);Miramella;;carinthiaca;;(Puschnig, 1910)
+Acrididae;Miramella ebneri Galvagni, 1953;Miramella;;ebneri;;Galvagni, 1953
+Acrididae;Miramella formosanta (Fruhstorfer, 1921);Miramella;;formosanta;;(Fruhstorfer, 1921)
+Acrididae;Miramella irena (Fruhstorfer, 1921);Miramella;;irena;;(Fruhstorfer, 1921)
+Acrididae;Morphacris fasciata (Thunberg, 1815);Morphacris;;fasciata;;(Thunberg, 1815)
+Acrididae;Myrmeleotettix antennatus (Fieber, 1853);Myrmeleotettix;;antennatus;;(Fieber, 1853)
+Acrididae;Myrmeleotettix maculatus (Thunberg, 1815);Myrmeleotettix;;maculatus;;(Thunberg, 1815)
+Acrididae;Myrmeleotettix pallidus (Brunner von Wattenwyl, 1882);Myrmeleotettix;;pallidus;;(Brunner von Wattenwyl, 1882)
+Acrididae;Notostaurus albicornis (Eversmann, 1848);Notostaurus;;albicornis;;(Eversmann, 1848)
+Acrididae;Notostaurus anatolicus (Krauss, 1896);Notostaurus;;anatolicus;;(Krauss, 1896)
+Acrididae;Ochrilidia harterti (Bolívar, 1913);Ochrilidia;;harterti;;(Bolívar, 1913)
+Acrididae;Ochrilidia hebetata kazaka (Tarbinsky, 1926);Ochrilidia;;hebetata;kazaka;(Tarbinsky, 1926)
+Acrididae;Ochrilidia hebetata (Uvarov, 1926);Ochrilidia;;hebetata;;(Uvarov, 1926)
+Acrididae;Ochrilidia nuragica Massa, 1994;Ochrilidia;;nuragica;;Massa, 1994
+Acrididae;Ochrilidia pruinosa Brunner von Wattenwyl, 1882;Ochrilidia;;pruinosa;;Brunner von Wattenwyl, 1882
+Acrididae;Ochrilidia sicula Salfi, 1931;Ochrilidia;;sicula;;Salfi, 1931
+Acrididae;Ochrilidia tibialis (Fieber, 1853);Ochrilidia;;tibialis;;(Fieber, 1853)
+Acrididae;Odontopodisma acuminata Kis, 1962;Odontopodisma;;acuminata;;Kis, 1962
+Acrididae;Odontopodisma albanica Ramme, 1951;Odontopodisma;;albanica;;Ramme, 1951
+Acrididae;Odontopodisma carpathica Kis, 1962;Odontopodisma;;carpathica;;Kis, 1962
+Acrididae;Odontopodisma decipiens Ramme, 1951;Odontopodisma;;decipiens;;Ramme, 1951
+Acrididae;Odontopodisma fallax Ramme, 1951;Odontopodisma;;fallax;;Ramme, 1951
+Acrididae;Odontopodisma montana Kis, 1962;Odontopodisma;;montana;;Kis, 1962
+Acrididae;Odontopodisma rammei Harz, 1973;Odontopodisma;;rammei;;Harz, 1973
+Acrididae;Odontopodisma rubripes (Ramme, 1931);Odontopodisma;;rubripes;;(Ramme, 1931)
+Acrididae;Odontopodisma schmidtii (Fieber, 1853);Odontopodisma;;schmidtii;;(Fieber, 1853)
+Acrididae;Oedaleus decorus (Germar, 1826);Oedaleus;;decorus;;(Germar, 1826)
+Acrididae;Oedaleus senegalensis (Krauss, 1877);Oedaleus;;senegalensis;;(Krauss, 1877)
+Acrididae;Oedipoda aurea Uvarov, 1923;Oedipoda;;aurea;;Uvarov, 1923
+Acrididae;Oedipoda caerulescens (Linnaeus, 1758);Oedipoda;;caerulescens;;(Linnaeus, 1758)
+Acrididae;Oedipoda canariensis Krauss, 1892;Oedipoda;;canariensis;;Krauss, 1892
+Acrididae;Oedipoda charpentieri Fieber, 1853;Oedipoda;;charpentieri;;Fieber, 1853
+Acrididae;Oedipoda fuscocincta Lucas, 1849;Oedipoda;;fuscocincta;;Lucas, 1849
+Acrididae;Oedipoda germanica (Latreille, 1804);Oedipoda;;germanica;;(Latreille, 1804)
+Acrididae;Oedipoda miniata (Pallas, 1771);Oedipoda;;miniata;;(Pallas, 1771)
+Acrididae;Oedipoda venusta Fieber, 1853;Oedipoda;;venusta;;Fieber, 1853
+Acrididae;Omocestus antigai (Bolívar, 1897);Omocestus;;antigai;;(Bolívar, 1897)
+Acrididae;Omocestus bolivari Chopard, 1939;Omocestus;;bolivari;;Chopard, 1939
+Acrididae;Omocestus femoralis Bolívar, 1908;Omocestus;;femoralis;;Bolívar, 1908
+Acrididae;Omocestus haemorrhoidalis (Charpentier, 1825);Omocestus;;haemorrhoidalis;;(Charpentier, 1825)
+Acrididae;Omocestus lopadusae La Greca, 1973;Omocestus;;lopadusae;;La Greca, 1973
+Acrididae;Omocestus minutissimus (Bolivar, 1878);Omocestus;;minutissimus;;(Bolivar, 1878)
+Acrididae;Omocestus minutus (Brullé, 1832);Omocestus;;minutus;;(Brullé, 1832)
+Acrididae;Omocestus panteli (Bolívar, 1887);Omocestus;;panteli;;(Bolívar, 1887)
+Acrididae;Omocestus petraeus (Brisout de Barneville, 1856);Omocestus;;petraeus;;(Brisout de Barneville, 1856)
+Acrididae;Omocestus raymondi (Yersin, 1863);Omocestus;;raymondi;;(Yersin, 1863)
+Acrididae;Omocestus rufipes (Zetterstedt, 1821);Omocestus;;rufipes;;(Zetterstedt, 1821)
+Acrididae;Omocestus simonyi (Krauss, 1892);Omocestus;;simonyi;;(Krauss, 1892)
+Acrididae;Omocestus uhagonii (Bolívar, 1876);Omocestus;;uhagonii;;(Bolívar, 1876)
+Acrididae;Omocestus uvarovi Zanon, 1926;Omocestus;;uvarovi;;Zanon, 1926
+Acrididae;Omocestus viridulus (Linnaeus, 1758);Omocestus;;viridulus;;(Linnaeus, 1758)
+Acrididae;Oropodisma chelmosi Uvarov, 1942;Oropodisma;;chelmosi;;Uvarov, 1942
+Acrididae;Oropodisma erymanthosi Willemse, 1971;Oropodisma;;erymanthosi;;Willemse, 1971
+Acrididae;Oropodisma karavica La Greca & Messina, 1976;Oropodisma;;karavica;;La Greca & Messina, 1976
+Acrididae;Oropodisma kyllinii Willemse, 1971;Oropodisma;;kyllinii;;Willemse, 1971
+Acrididae;Oropodisma lagrecai Willemse, 1979;Oropodisma;;lagrecai;;Willemse, 1979
+Acrididae;Oropodisma macedonica Ramme, 1951;Oropodisma;;macedonica;;Ramme, 1951
+Acrididae;Oropodisma parnassica (Scudder, 1897);Oropodisma;;parnassica;;(Scudder, 1897)
+Acrididae;Oropodisma taygetosi Willemse, 1972;Oropodisma;;taygetosi;;Willemse, 1972
+Acrididae;Oropodisma tymphrestosi Willemse, 1972;Oropodisma;;tymphrestosi;;Willemse, 1972
+Acrididae;Oropodisma willemsei La Greca & Messina, 1976;Oropodisma;;willemsei;;La Greca & Messina, 1976
+Acrididae;Pallasiella bolivari (Kuthy, 1907);Pallasiella;;bolivari;;(Kuthy, 1907)
+Acrididae;Pallasiella turcomana (Fischer de Waldheim, 1833);Pallasiella;;turcomana;;(Fischer de Waldheim, 1833)
+Acrididae;Paracaloptenus bolivari Uvarov, 1942;Paracaloptenus;;bolivari;;Uvarov, 1942
+Acrididae;Paracaloptenus caloptenoides (Brunner von Wattenwyl, 1861);Paracaloptenus;;caloptenoides;;(Brunner von Wattenwyl, 1861)
+Acrididae;Paracaloptenus cristatus Willemse, 1973;Paracaloptenus;;cristatus;;Willemse, 1973
+Acrididae;Paracinema tricolor (Thunberg, 1815);Paracinema;;tricolor;;(Thunberg, 1815)
+Acrididae;Peripodisma tymphii Willemse, 1972;Peripodisma;;tymphii;;Willemse, 1972
+Acrididae;Pezotettix anatolica Uvarov, 1934;Pezotettix;;anatolica;;Uvarov, 1934
+Acrididae;Pezotettix cypria Dirsh, 1949;Pezotettix;;cypria;;Dirsh, 1949
+Acrididae;Pezotettix giornae (Rossi, 1794);Pezotettix;;giornae;;(Rossi, 1794)
+Acrididae;Pezotettix lagoi Jannone, 1936;Pezotettix;;lagoi;;Jannone, 1936
+Acrididae;Platypygius crassus (Karny, 1907);Platypygius;;crassus;;(Karny, 1907)
+Acrididae;Platypygius platypygius (Pantel, 1886);Platypygius;;platypygius;;(Pantel, 1886)
+Acrididae;Podisma cantabricae Morales Agacino, 1950;Podisma;;cantabricae;;Morales Agacino, 1950
+Acrididae;Podisma carpetana (Bolívar, 1898);Podisma;;carpetana;;(Bolívar, 1898)
+Acrididae;Podisma dechambrei Chopard, 1952;Podisma;;dechambrei;;Chopard, 1952
+Acrididae;Podisma eitschbergeri Harz, 1973;Podisma;;eitschbergeri;;Harz, 1973
+Acrididae;Podisma emiliae Ramme, 1926;Podisma;;emiliae;;Ramme, 1926
+Acrididae;Podisma goidanichi Baccetti, 1958;Podisma;;goidanichi;;Baccetti, 1958
+Acrididae;Podisma magdalenae Galvagni, 1971;Podisma;;magdalenae;;Galvagni, 1971
+Acrididae;Podisma pedestris (Linnaeus, 1758);Podisma;;pedestris;;(Linnaeus, 1758)
+Acrididae;Podisma ruffoi Baccetti, 1971;Podisma;;ruffoi;;Baccetti, 1971
+Acrididae;Podisma silvestrii Salfi, 1935;Podisma;;silvestrii;;Salfi, 1935
+Acrididae;Podismopsis keisti (Nadig, 1989);Podismopsis;;keisti;;(Nadig, 1989)
+Acrididae;Podismopsis poppiusi (Miram, 1906);Podismopsis;;poppiusi;;(Miram, 1906)
+Acrididae;Podismopsis relicta Ramme, 1931;Podismopsis;;relicta;;Ramme, 1931
+Acrididae;Podismopsis transsylvanica Ramme, 1951;Podismopsis;;transsylvanica;;Ramme, 1951
+Acrididae;Pseudopodisma fieberi (Scudder, 1897);Pseudopodisma;;fieberi;;(Scudder, 1897)
+Acrididae;Pseudopodisma nagyi Galvagni & Fontana, 1996;Pseudopodisma;;nagyi;;Galvagni & Fontana, 1996
+Acrididae;Pseudopodisma transilvanica Galvagni & Fontana, 1993;Pseudopodisma;;transilvanica;;Galvagni & Fontana, 1993
+Acrididae;Pseudoprumna baldensis (Krauss, 1883);Pseudoprumna;;baldensis;;(Krauss, 1883)
+Acrididae;Psophus stridulus (Linnaeus, 1758);Psophus;;stridulus;;(Linnaeus, 1758)
+Acrididae;Pyrgodera armata Fischer de Waldheim, 1846;Pyrgodera;;armata;;Fischer de Waldheim, 1846
+Acrididae;Ramburiella hispanica (Rambur, 1838);Ramburiella;;hispanica;;(Rambur, 1838)
+Acrididae;Rammeihippus dinaricus (Goetz, 1970);Rammeihippus;;dinaricus;;(Goetz, 1970)
+Acrididae;Schistocerca gregaria (Forskål, 1775);Schistocerca;;gregaria;;(Forskål, 1775)
+Acrididae;Scintharista notabilis (Walker, 1870);Scintharista;;notabilis;;(Walker, 1870)
+Acrididae;Sphingoderus carinatus (Saussure, 1888);Sphingoderus;;carinatus;;(Saussure, 1888)
+Acrididae;Sphingonotus arenarius (Lucas, 1848);Sphingonotus;;arenarius;;(Lucas, 1848)
+Acrididae;Sphingonotus azurescens (Rambur, 1838);Sphingonotus;;azurescens;;(Rambur, 1838)
+Acrididae;Sphingonotus caerulans (Linnaeus, 1767);Sphingonotus;;caerulans;;(Linnaeus, 1767)
+Acrididae;Sphingonotus canariensis Saussure, 1884;Sphingonotus;;canariensis;;Saussure, 1884
+Acrididae;Sphingonotus candidus candidus Costa, 1888;Sphingonotus;;candidus;candidus;Costa, 1888
+Acrididae;Sphingonotus candidus lusitanicus Ebner, 1941;Sphingonotus;;candidus;lusitanicus;Ebner, 1941
+Acrididae;Sphingonotus candidus Costa, 1888;Sphingonotus;;candidus;;Costa, 1888
+Acrididae;Sphingonotus coerulipes Uvarov, 1922;Sphingonotus;;coerulipes;;Uvarov, 1922
+Acrididae;Sphingonotus crivellarii Jannone, 1936;Sphingonotus;;crivellarii;;Jannone, 1936
+Acrididae;Sphingonotus eurasius Mistshenko, 1936;Sphingonotus;;eurasius;;Mistshenko, 1936
+Acrididae;Sphingonotus halophilus Bey-Bienko, 1929;Sphingonotus;;halophilus;;Bey-Bienko, 1929
+Acrididae;Sphingonotus maculatus Uvarov, 1925;Sphingonotus;;maculatus;;Uvarov, 1925
+Acrididae;Sphingonotus nebulosus (Fischer de Waldheim, 1846);Sphingonotus;;nebulosus;;(Fischer de Waldheim, 1846)
+Acrididae;Sphingonotus obscuratus (Walker, 1879);Sphingonotus;;obscuratus;;(Walker, 1879)
+Acrididae;Sphingonotus octofasciatus (Serville, 1839);Sphingonotus;;octofasciatus;;(Serville, 1839)
+Acrididae;Sphingonotus personatus Zanon, 1926;Sphingonotus;;personatus;;Zanon, 1926
+Acrididae;Sphingonotus rubescens (Walker, 1870);Sphingonotus;;rubescens;;(Walker, 1870)
+Acrididae;Sphingonotus salinus (Pallas, 1773);Sphingonotus;;salinus;;(Pallas, 1773)
+Acrididae;Sphingonotus savignyi Saussure, 1884;Sphingonotus;;savignyi;;Saussure, 1884
+Acrididae;Sphingonotus sublaevis (Bolívar, 1908);Sphingonotus;;sublaevis;;(Bolívar, 1908)
+Acrididae;Sphingonotus uvarovi Chopard, 1923;Sphingonotus;;uvarovi;;Chopard, 1923
+Acrididae;Sphingonotus willemsei Mistshenko, 1937;Sphingonotus;;willemsei;;Mistshenko, 1937
+Acrididae;Stauroderus scalaris (Fischer de Waldheim, 1846);Stauroderus;;scalaris;;(Fischer de Waldheim, 1846)
+Acrididae;Stenobothrus apenninus Ebner, 1915;Stenobothrus;;apenninus;;Ebner, 1915
+Acrididae;Stenobothrus bolivarii (Brunner von Wattenwyl in Bolívar, 1876);Stenobothrus;;bolivarii;;(Brunner von Wattenwyl in Bolívar, 1876)
+Acrididae;Stenobothrus bulgaricus Ramme, 1933;Stenobothrus;;bulgaricus;;Ramme, 1933
+Acrididae;Stenobothrus carbonarius (Eversmann, 1848);Stenobothrus;;carbonarius;;(Eversmann, 1848)
+Acrididae;Stenobothrus clavatus Willemse, 1979;Stenobothrus;;clavatus;;Willemse, 1979
+Acrididae;Stenobothrus cotticus (Kruseman & Jeekel, 1967);Stenobothrus;;cotticus;;(Kruseman & Jeekel, 1967)
+Acrididae;Stenobothrus crassipes (Charpentier, 1825);Stenobothrus;;crassipes;;(Charpentier, 1825)
+Acrididae;Stenobothrus croaticus (Ramme, 1933);Stenobothrus;;croaticus;;(Ramme, 1933)
+Acrididae;Stenobothrus eurasius Zubovskii, 1898;Stenobothrus;;eurasius;;Zubovskii, 1898
+Acrididae;Stenobothrus festivus Bolívar, 1887;Stenobothrus;;festivus;;Bolívar, 1887
+Acrididae;Stenobothrus fischeri (Eversmann, 1848);Stenobothrus;;fischeri;;(Eversmann, 1848)
+Acrididae;Stenobothrus graecus Ramme, 1926;Stenobothrus;;graecus;;Ramme, 1926
+Acrididae;Stenobothrus grammicus Cazurro, 1888;Stenobothrus;;grammicus;;Cazurro, 1888
+Acrididae;Stenobothrus lineatus (Panzer, 1796);Stenobothrus;;lineatus;;(Panzer, 1796)
+Acrididae;Stenobothrus miramae Dirsh, 1931;Stenobothrus;;miramae;;Dirsh, 1931
+Acrididae;Stenobothrus nigromaculatus (Herrich-Schäffer, 1840);Stenobothrus;;nigromaculatus;;(Herrich-Schäffer, 1840)
+Acrididae;Stenobothrus posthumus Ramme, 1931;Stenobothrus;;posthumus;;Ramme, 1931
+Acrididae;Stenobothrus rubicundulus Kruseman & Jeekel, 1967;Stenobothrus;;rubicundulus;;Kruseman & Jeekel, 1967
+Acrididae;Stenobothrus stigmaticus (Rambur, 1838);Stenobothrus;;stigmaticus;;(Rambur, 1838)
+Acrididae;Stenobothrus ursulae Nadig, 1986;Stenobothrus;;ursulae;;Nadig, 1986
+Acrididae;Stenohippus mundus (Walker, 1871);Stenohippus;;mundus;;(Walker, 1871)
+Acrididae;Stethophyma grossum (Linnaeus, 1758);Stethophyma;;grossum;;(Linnaeus, 1758)
+Acrididae;Thalpomena algeriana (Lucas, 1849);Thalpomena;;algeriana;;(Lucas, 1849)
+Acrididae;Thisoicetrinus pterostichus (Fischer de Waldheim, 1833);Thisoicetrinus;;pterostichus;;(Fischer de Waldheim, 1833)
+Acrididae;Tropidopola cylindrica (Marschall, 1836);Tropidopola;;cylindrica;;(Marschall, 1836)
+Acrididae;Tropidopola graeca Uvarov, 1926;Tropidopola;;graeca;;Uvarov, 1926
+Acrididae;Tropidopola longicornis (Fieber, 1853);Tropidopola;;longicornis;;(Fieber, 1853)
+Acrididae;Truxalis eximia cypria Dirsh, 1950;Truxalis;;eximia;cypria;Dirsh, 1950
+Acrididae;Truxalis eximia Eichwald, 1830;Truxalis;;eximia;;Eichwald, 1830
+Acrididae;Truxalis nasuta (Linnaeus, 1758);Truxalis;;nasuta;;(Linnaeus, 1758)
+Acrididae;Wernerella guancha Johnsen, 1985;Wernerella;;guancha;;Johnsen, 1985
+Acrididae;Wernerella pachecoi (Bolívar, 1908);Wernerella;;pachecoi;;(Bolívar, 1908)
+Acrididae;Wernerella picteti (Krauss, 1892);Wernerella;;picteti;;(Krauss, 1892)
+Acrididae;Wernerella rugosa Bland & Gangwere, 1998;Wernerella;;rugosa;;Bland & Gangwere, 1998
+Acrididae;Xerohippus azami (Bolívar, 1901);Xerohippus;;azami;;(Bolívar, 1901)
+Acrididae;Xerohippus cyprius Uvarov, 1942;Xerohippus;;cyprius;;Uvarov, 1942
+Acrididae;Xerohippus occidentalis Pascual & Aguirre, 1996;Xerohippus;;occidentalis;;Pascual & Aguirre, 1996
+Acrididae;Xerohippus sinuosus Uvarov, 1942;Xerohippus;;sinuosus;;Uvarov, 1942
+Acrididae;Xerohippus solerii (Jannone, 1936);Xerohippus;;solerii;;(Jannone, 1936)
+Acrididae;Zubovskya banatica Kis, 1965;Zubovskya;;banatica;;Kis, 1965
+Bradyporidae;Baetica ustulata (Rambur, 1838);Baetica;;ustulata;;(Rambur, 1838)
+Bradyporidae;Bradyporus dasypus (Illiger, 1800);Bradyporus;;dasypus;;(Illiger, 1800)
+Bradyporidae;Callimenus macrogaster (Lefebvre, 1831);Callimenus;;macrogaster;;(Lefebvre, 1831)
+Bradyporidae;Callimenus montandoni Burr, 1898;Callimenus;;montandoni;;Burr, 1898
+Bradyporidae;Callimenus multituberculatus (Fischer de Waldheim, 1833);Callimenus;;multituberculatus;;(Fischer de Waldheim, 1833)
+Bradyporidae;Callimenus oniscus Burmeister, 1838;Callimenus;;oniscus;;Burmeister, 1838
+Bradyporidae;Ephippiger apulus (Ramme, 1933);Ephippiger;;apulus;;(Ramme, 1933)
+Bradyporidae;Ephippiger camillae Fontana & Massa, 2000;Ephippiger;;camillae;;Fontana & Massa, 2000
+Bradyporidae;Ephippiger carlottae Fontana & Ode, 2003;Ephippiger;;carlottae;;Fontana & Ode, 2003
+Bradyporidae;Ephippiger cavannae (Targioni-Tozzetti, 1881);Ephippiger;;cavannae;;(Targioni-Tozzetti, 1881)
+Bradyporidae;Ephippiger discoidalis Fieber, 1853;Ephippiger;;discoidalis;;Fieber, 1853
+Bradyporidae;Ephippiger ephippiger (Fiebig, 1784);Ephippiger;;ephippiger;;(Fiebig, 1784)
+Bradyporidae;Ephippiger perforatus (Rossius, 1790);Ephippiger;;perforatus;;(Rossius, 1790)
+Bradyporidae;Ephippiger provincialis (Yersin, 1854);Ephippiger;;provincialis;;(Yersin, 1854)
+Bradyporidae;Ephippiger ruffoi Galvagni, 1955;Ephippiger;;ruffoi;;Galvagni, 1955
+Bradyporidae;Ephippiger terrestris (Yersin, 1854);Ephippiger;;terrestris;;(Yersin, 1854)
+Bradyporidae;Ephippiger zelleri melisi Baccetti, 1958;Ephippiger;;zelleri;melisi;Baccetti, 1958
+Bradyporidae;Ephippiger zelleri zelleri (Fischer, 1853);Ephippiger;;zelleri;zelleri;(Fischer, 1853)
+Bradyporidae;Ephippiger zelleri (Fischer, 1853);Ephippiger;;zelleri;;(Fischer, 1853)
+Bradyporidae;Ephippigerida areolaria (Bolívar, 1877);Ephippigerida;;areolaria;;(Bolívar, 1877)
+Bradyporidae;Ephippigerida asella (Navas, 1907);Ephippigerida;;asella;;(Navas, 1907)
+Bradyporidae;Ephippigerida carinata (Bolívar, 1877);Ephippigerida;;carinata;;(Bolívar, 1877)
+Bradyporidae;Ephippigerida hispanica (Fieber, 1853);Ephippigerida;;hispanica;;(Fieber, 1853)
+Bradyporidae;Ephippigerida longicauda (Bolívar, 1873);Ephippigerida;;longicauda;;(Bolívar, 1873)
+Bradyporidae;Ephippigerida marceti (Navas, 1907);Ephippigerida;;marceti;;(Navas, 1907)
+Bradyporidae;Ephippigerida nigromarginata (Lucas, 1849);Ephippigerida;;nigromarginata;;(Lucas, 1849)
+Bradyporidae;Ephippigerida pantingana (Navas, 1904);Ephippigerida;;pantingana;;(Navas, 1904)
+Bradyporidae;Ephippigerida paulinoi (Bolívar, 1877);Ephippigerida;;paulinoi;;(Bolívar, 1877)
+Bradyporidae;Ephippigerida saussureiana (Bolívar, 1878);Ephippigerida;;saussureiana;;(Bolívar, 1878)
+Bradyporidae;Ephippigerida taeniata (Saussure, 1898);Ephippigerida;;taeniata;;(Saussure, 1898)
+Bradyporidae;Ephippigerida zapaterii (Bolívar, 1877);Ephippigerida;;zapaterii;;(Bolívar, 1877)
+Bradyporidae;Platystolus (Neocallicrania) bolivarii (Seoane, 1878);Platystolus;Neocallicrania;bolivarii;;(Seoane, 1878)
+Bradyporidae;Platystolus (Neocallicrania) lusitanicus (Aires & Menano, 1916);Platystolus;Neocallicrania;lusitanicus;;(Aires & Menano, 1916)
+Bradyporidae;Platystolus (Neocallicrania) miegii (Bolívar, 1873);Platystolus;Neocallicrania;miegii;;(Bolívar, 1873)
+Bradyporidae;Platystolus (Neocallicrania) selliger (Charpentier, 1825);Platystolus;Neocallicrania;selliger;;(Charpentier, 1825)
+Bradyporidae;Platystolus (Neocallicrania) serratus (Bolívar, 1885);Platystolus;Neocallicrania;serratus;;(Bolívar, 1885)
+Bradyporidae;Platystolus (Platystolus) faberi Harz, 1975;Platystolus;Platystolus;faberi;;Harz, 1975
+Bradyporidae;Platystolus (Platystolus) martinezii (Bolívar, 1873);Platystolus;Platystolus;martinezii;;(Bolívar, 1873)
+Bradyporidae;Platystolus (Platystolus) obvius (Navas, 1904);Platystolus;Platystolus;obvius;;(Navas, 1904)
+Bradyporidae;Platystolus (Platystolus) ramburii (Bolívar, 1878);Platystolus;Platystolus;ramburii;;(Bolívar, 1878)
+Bradyporidae;Platystolus (Platystolus) surcularius (Bolívar, 1877);Platystolus;Platystolus;surcularius;;(Bolívar, 1877)
+Bradyporidae;Praephippigera pachygaster (Lucas, 1849);Praephippigera;;pachygaster;;(Lucas, 1849)
+Bradyporidae;Pycnogaster (Bradygaster) algecirensis Bolívar, 1926;Pycnogaster;Bradygaster;algecirensis;;Bolívar, 1926
+Bradyporidae;Pycnogaster (Bradygaster) gaditana Bolívar, 1899;Pycnogaster;Bradygaster;gaditana;;Bolívar, 1899
+Bradyporidae;Pycnogaster (Bradygaster) inermis (Rambur, 1838);Pycnogaster;Bradygaster;inermis;;(Rambur, 1838)
+Bradyporidae;Pycnogaster (Bradygaster) sanchezgomezi Bolívar, 1897;Pycnogaster;Bradygaster;sanchezgomezi;;Bolívar, 1897
+Bradyporidae;Pycnogaster (Pycnogaster) cucullata (Charpentier, 1825);Pycnogaster;Pycnogaster;cucullata;;(Charpentier, 1825)
+Bradyporidae;Pycnogaster (Pycnogaster) graellsii Bolívar, 1873;Pycnogaster;Pycnogaster;graellsii;;Bolívar, 1873
+Bradyporidae;Pycnogaster (Pycnogaster) jugicola Graells, 1851;Pycnogaster;Pycnogaster;jugicola;;Graells, 1851
+Bradyporidae;Pycnogaster (Pycnogaster) valentini Pinedo & Llorente, 1987;Pycnogaster;Pycnogaster;valentini;;Pinedo & Llorente, 1987
+Bradyporidae;Uromenus (Steropleurus) andalusius (Rambur, 1838);Uromenus;Steropleurus;andalusius;;(Rambur, 1838)
+Bradyporidae;Uromenus (Steropleurus) annae (Targioni-Tozzetti, 1891);Uromenus;Steropleurus;annae;;(Targioni-Tozzetti, 1891)
+Bradyporidae;Uromenus (Steropleurus) asturiensis (Bolívar, 1898);Uromenus;Steropleurus;asturiensis;;(Bolívar, 1898)
+Bradyporidae;Uromenus (Steropleurus) balearicus (Bolívar, 1884);Uromenus;Steropleurus;balearicus;;(Bolívar, 1884)
+Bradyporidae;Uromenus (Steropleurus) brunnerii (Bolívar, 1877);Uromenus;Steropleurus;brunnerii;;(Bolívar, 1877)
+Bradyporidae;Uromenus (Steropleurus) castellanus (Bolívar, 1878);Uromenus;Steropleurus;castellanus;;(Bolívar, 1878)
+Bradyporidae;Uromenus (Steropleurus) catalaunicus (Bolívar, 1898);Uromenus;Steropleurus;catalaunicus;;(Bolívar, 1898)
+Bradyporidae;Uromenus (Steropleurus) chopardi (Ebner, 1938);Uromenus;Steropleurus;chopardi;;(Ebner, 1938)
+Bradyporidae;Uromenus (Steropleurus) dilutus (Bolívar, 1878);Uromenus;Steropleurus;dilutus;;(Bolívar, 1878)
+Bradyporidae;Uromenus (Steropleurus) dyrrhachiacus Karny, 1918;Uromenus;Steropleurus;dyrrhachiacus;;Karny, 1918
+Bradyporidae;Uromenus (Steropleurus) elegans (Fischer, 1853);Uromenus;Steropleurus;elegans;;(Fischer, 1853)
+Bradyporidae;Uromenus (Steropleurus) flavovittatus (Bolívar, 1878);Uromenus;Steropleurus;flavovittatus;;(Bolívar, 1878)
+Bradyporidae;Uromenus (Steropleurus) martorellii (Bolívar, 1878);Uromenus;Steropleurus;martorellii;;(Bolívar, 1878)
+Bradyporidae;Uromenus (Steropleurus) nobrei (Bolívar, 1898);Uromenus;Steropleurus;nobrei;;(Bolívar, 1898)
+Bradyporidae;Uromenus (Steropleurus) notarioi (Gomez, Pardo & Llorente, 1998);Uromenus;Steropleurus;notarioi;;(Gomez, Pardo & Llorente, 1998)
+Bradyporidae;Uromenus (Steropleurus) obsoletus (Bolívar, 1898);Uromenus;Steropleurus;obsoletus;;(Bolívar, 1898)
+Bradyporidae;Uromenus (Steropleurus) ortegai (Pantel, 1896);Uromenus;Steropleurus;ortegai;;(Pantel, 1896)
+Bradyporidae;Uromenus (Steropleurus) panteli (Navas, 1899);Uromenus;Steropleurus;panteli;;(Navas, 1899)
+Bradyporidae;Uromenus (Steropleurus) perezii (Bolívar, 1877);Uromenus;Steropleurus;perezii;;(Bolívar, 1877)
+Bradyporidae;Uromenus (Steropleurus) politus (Bolívar, 1901);Uromenus;Steropleurus;politus;;(Bolívar, 1901)
+Bradyporidae;Uromenus (Steropleurus) pseudolus (Bolívar, 1878);Uromenus;Steropleurus;pseudolus;;(Bolívar, 1878)
+Bradyporidae;Uromenus (Steropleurus) recticarinatus Llorente, 1978;Uromenus;Steropleurus;recticarinatus;;Llorente, 1978
+Bradyporidae;Uromenus (Steropleurus) squamiferus Bolívar, 1907;Uromenus;Steropleurus;squamiferus;;Bolívar, 1907
+Bradyporidae;Uromenus (Steropleurus) stalii (Bolívar, 1877);Uromenus;Steropleurus;stalii;;(Bolívar, 1877)
+Bradyporidae;Uromenus (Uromenus) agarenus (Brunner von Wattenwyl, 1882);Uromenus;Uromenus;agarenus;;(Brunner von Wattenwyl, 1882)
+Bradyporidae;Uromenus (Uromenus) bonneti bonneti Bolívar, 1907;Uromenus;Uromenus;bonneti;bonneti;Bolívar, 1907
+Bradyporidae;Uromenus (Uromenus) bonneti painoi Ramme, 1927;Uromenus;Uromenus;bonneti;painoi;Ramme, 1927
+Bradyporidae;Uromenus (Uromenus) bonneti Bolívar, 1907;Uromenus;Uromenus;bonneti;;Bolívar, 1907
+Bradyporidae;Uromenus (Uromenus) brevicollis (Fischer, 1853);Uromenus;Uromenus;brevicollis;;(Fischer, 1853)
+Bradyporidae;Uromenus (Uromenus) maroccanus Saussure, 1898;Uromenus;Uromenus;maroccanus;;Saussure, 1898
+Bradyporidae;Uromenus (Uromenus) riggioi La Greca, 1964;Uromenus;Uromenus;riggioi;;La Greca, 1964
+Bradyporidae;Uromenus (Uromenus) rugosicollis (Serville, 1839);Uromenus;Uromenus;rugosicollis;;(Serville, 1839)
+Conocephalidae;Conocephalus chavesi (Bolivar, 1905);Conocephalus;;chavesi;;(Bolivar, 1905)
+Conocephalidae;Conocephalus concolor hispanicus Heller, 1988;Conocephalus;;concolor;hispanicus;Heller, 1988
+Conocephalidae;Conocephalus concolor (Burmeister, 1839);Conocephalus;;concolor;;(Burmeister, 1839)
+Conocephalidae;Conocephalus conocephalus (Linnaeus, 1767);Conocephalus;;conocephalus;;(Linnaeus, 1767)
+Conocephalidae;Conocephalus dorsalis (Latreille, 1804);Conocephalus;;dorsalis;;(Latreille, 1804)
+Conocephalidae;Conocephalus ebneri Harz, 1966;Conocephalus;;ebneri;;Harz, 1966
+Conocephalidae;Conocephalus fuscus (Fabricius, 1793);Conocephalus;;fuscus;;(Fabricius, 1793)
+Conocephalidae;Conocephalus grebenchikovi Uvarov, 1942;Conocephalus;;grebenchikovi;;Uvarov, 1942
+Conocephalidae;Conocephalus hastatus (Charpentier, 1825);Conocephalus;;hastatus;;(Charpentier, 1825)
+Conocephalidae;Conocephalus kisi Harz, 1967;Conocephalus;;kisi;;Harz, 1967
+Conocephalidae;Conocephalus maculatus (Le Guillou, 1841);Conocephalus;;maculatus;;(Le Guillou, 1841)
+Conocephalidae;Ruspolia nitidula (Scopoli, 1786);Ruspolia;;nitidula;;(Scopoli, 1786)
+Gryllidae;Acanthogryllus acus Gorokhov, 1988;Acanthogryllus;;acus;;Gorokhov, 1988
+Gryllidae;Acheta domesticus (Linnaeus, 1758);Acheta;;domesticus;;(Linnaeus, 1758)
+Gryllidae;Acheta gossypii (Costa, 1855);Acheta;;gossypii;;(Costa, 1855)
+Gryllidae;Acheta hispanicus Rambur, 1839;Acheta;;hispanicus;;Rambur, 1839
+Gryllidae;Acheta meridionalis (Uvarov, 1921);Acheta;;meridionalis;;(Uvarov, 1921)
+Gryllidae;Acroneuroptila puddui Cadeddu, 1970;Acroneuroptila;;puddui;;Cadeddu, 1970
+Gryllidae;Acroneuroptila sardoa Baccetti, 1959;Acroneuroptila;;sardoa;;Baccetti, 1959
+Gryllidae;Brachytrupes megacephalus (Lefevre, 1827);Brachytrupes;;megacephalus;;(Lefevre, 1827)
+Gryllidae;Discoptila buresi Maran, 1958;Discoptila;;buresi;;Maran, 1958
+Gryllidae;Discoptila clauseri Schmidt, 1991;Discoptila;;clauseri;;Schmidt, 1991
+Gryllidae;Discoptila fragosoi (Bolívar, 1885);Discoptila;;fragosoi;;(Bolívar, 1885)
+Gryllidae;Discoptila kinzelbachi Harz, 1971;Discoptila;;kinzelbachi;;Harz, 1971
+Gryllidae;Discoptila krueperi (Pantel, 1890);Discoptila;;krueperi;;(Pantel, 1890)
+Gryllidae;Discoptila lindbergi Chopard, 1957;Discoptila;;lindbergi;;Chopard, 1957
+Gryllidae;Discoptila newmanae Harz, 1969;Discoptila;;newmanae;;Harz, 1969
+Gryllidae;Discoptila sbordonii Baccetti, 1979;Discoptila;;sbordonii;;Baccetti, 1979
+Gryllidae;Discoptila willemsei Karaman, 1975;Discoptila;;willemsei;;Karaman, 1975
+Gryllidae;Eugryllodes escalerae (Bolívar, 1894);Eugryllodes;;escalerae;;(Bolívar, 1894)
+Gryllidae;Eugryllodes littoreus (Bolívar, 1895);Eugryllodes;;littoreus;;(Bolívar, 1895)
+Gryllidae;Eugryllodes panteli (Cazurro, 1888);Eugryllodes;;panteli;;(Cazurro, 1888)
+Gryllidae;Eugryllodes pipiens (Dufour, 1820);Eugryllodes;;pipiens;;(Dufour, 1820)
+Gryllidae;Eumodicogryllus bordigalensis (Latreille, 1804);Eumodicogryllus;;bordigalensis;;(Latreille, 1804)
+Gryllidae;Eumodicogryllus theryi (Chopard, 1943);Eumodicogryllus;;theryi;;(Chopard, 1943)
+Gryllidae;Grylloderes brunneri (Riggio, 1888);Grylloderes;;brunneri;;(Riggio, 1888)
+Gryllidae;Grylloderes orlovskajae adventicius Gorokhov & Llorente, 2001;Grylloderes;;orlovskajae;adventicius;Gorokhov & Llorente, 2001
+Gryllidae;Grylloderes orlovskajae Gorokhov, 1988;Grylloderes;;orlovskajae;;Gorokhov, 1988
+Gryllidae;Gryllodes supplicans (Walker, 1859);Gryllodes;;supplicans;;(Walker, 1859)
+Gryllidae;Gryllodinus kerkennensis (Finot, 1893);Gryllodinus;;kerkennensis;;(Finot, 1893)
+Gryllidae;Gryllodinus odicus Uvarov, 1911;Gryllodinus;;odicus;;Uvarov, 1911
+Gryllidae;Gryllomorpha adspersa merobricensis Fernandes, 1959;Gryllomorpha;;adspersa;merobricensis;Fernandes, 1959
+Gryllidae;Gryllomorpha adspersa Bolivar, 1914;Gryllomorpha;;adspersa;;Bolivar, 1914
+Gryllidae;Gryllomorpha albanica Ebner, 1910;Gryllomorpha;;albanica;;Ebner, 1910
+Gryllidae;Gryllomorpha canariensis Chopard, 1939;Gryllomorpha;;canariensis;;Chopard, 1939
+Gryllidae;Gryllomorpha cretensis Ramme, 1927;Gryllomorpha;;cretensis;;Ramme, 1927
+Gryllidae;Gryllomorpha dalmatina (Ocskay, 1832);Gryllomorpha;;dalmatina;;(Ocskay, 1832)
+Gryllidae;Gryllomorpha gracilipes Chopard, 1943;Gryllomorpha;;gracilipes;;Chopard, 1943
+Gryllidae;Gryllomorpha guentheri Harz, 1976;Gryllomorpha;;guentheri;;Harz, 1976
+Gryllidae;Gryllomorpha longicauda (Rambur, 1839);Gryllomorpha;;longicauda;;(Rambur, 1839)
+Gryllidae;Gryllomorpha miramae Medvedev, 1933;Gryllomorpha;;miramae;;Medvedev, 1933
+Gryllidae;Gryllomorpha schmidti Gorochov, 1996;Gryllomorpha;;schmidti;;Gorochov, 1996
+Gryllidae;Gryllomorpha uclensis Pantel, 1890;Gryllomorpha;;uclensis;;Pantel, 1890
+Gryllidae;Gryllomorpha wettsteini (Werner, 1934);Gryllomorpha;;wettsteini;;(Werner, 1934)
+Gryllidae;Gryllopsis caspicus Gorochov, 1986;Gryllopsis;;caspicus;;Gorochov, 1986
+Gryllidae;Gryllus bimaculatus De Geer, 1773;Gryllus;;bimaculatus;;De Geer, 1773
+Gryllidae;Gryllus campestris Linnaeus, 1758;Gryllus;;campestris;;Linnaeus, 1758
+Gryllidae;Hymenoptila lanzarotensis Kevan, 1992;Hymenoptila;;lanzarotensis;;Kevan, 1992
+Gryllidae;Melanogryllus desertus (Pallas, 1771);Melanogryllus;;desertus;;(Pallas, 1771)
+Gryllidae;Modicogryllus algirius (Saussure, 1877);Modicogryllus;;algirius;;(Saussure, 1877)
+Gryllidae;Modicogryllus cyprius (Saussure, 1877);Modicogryllus;;cyprius;;(Saussure, 1877)
+Gryllidae;Modicogryllus frontalis (Fieber, 1844);Modicogryllus;;frontalis;;(Fieber, 1844)
+Gryllidae;Modicogryllus guanchicus (Krauss, 1892);Modicogryllus;;guanchicus;;(Krauss, 1892)
+Gryllidae;Modicogryllus truncatus (Tarbinsky, 1940);Modicogryllus;;truncatus;;(Tarbinsky, 1940)
+Gryllidae;Natula averni (Costa, 1855);Natula;;averni;;(Costa, 1855)
+Gryllidae;Natula longipennis (Serville, 1839);Natula;;longipennis;;(Serville, 1839)
+Gryllidae;Nemobius sylvestris (Bosc, 1792);Nemobius;;sylvestris;;(Bosc, 1792)
+Gryllidae;Oecanthus dulcisonans Gorochov, 1993;Oecanthus;;dulcisonans;;Gorochov, 1993
+Gryllidae;Oecanthus pellucens (Scopoli, 1763);Oecanthus;;pellucens;;(Scopoli, 1763)
+Gryllidae;Oecanthus turanicus Uvarov, 1912;Oecanthus;;turanicus;;Uvarov, 1912
+Gryllidae;Petaloptila aliena (Brunner von Wattenwyl, 1882);Petaloptila;;aliena;;(Brunner von Wattenwyl, 1882)
+Gryllidae;Petaloptila andreinii Capra, 1935;Petaloptila;;andreinii;;Capra, 1935
+Gryllidae;Petaloptila barrancoi Gorokhov & Llorente, 2001;Petaloptila;;barrancoi;;Gorokhov & Llorente, 2001
+Gryllidae;Petaloptila bolivari (Cazurro, 1888);Petaloptila;;bolivari;;(Cazurro, 1888)
+Gryllidae;Petaloptila fermini Gorokhov & Llorente, 2001;Petaloptila;;fermini;;Gorokhov & Llorente, 2001
+Gryllidae;Petaloptila isabelae Gorokhov & Llorente, 2001;Petaloptila;;isabelae;;Gorokhov & Llorente, 2001
+Gryllidae;Petaloptila pallescens Bolivar, 1927;Petaloptila;;pallescens;;Bolivar, 1927
+Gryllidae;Petaloptila pyrenaea Olmo-Vidal & Hernando, 2000;Petaloptila;;pyrenaea;;Olmo-Vidal & Hernando, 2000
+Gryllidae;Petaloptila venosa Gorokhov & Llorente, 2001;Petaloptila;;venosa;;Gorokhov & Llorente, 2001
+Gryllidae;Pteronemobius heydenii (Fischer, 1853);Pteronemobius;;heydenii;;(Fischer, 1853)
+Gryllidae;Pteronemobius lineolatus (Brullé, 1835);Pteronemobius;;lineolatus;;(Brullé, 1835)
+Gryllidae;Sciobia barbara (Saussure, 1877);Sciobia;;barbara;;(Saussure, 1877)
+Gryllidae;Sciobia boscai Bolivar, 1925;Sciobia;;boscai;;Bolivar, 1925
+Gryllidae;Sciobia caliendrum (Fischer, 1853);Sciobia;;caliendrum;;(Fischer, 1853)
+Gryllidae;Sciobia lusitanica (Rambur, 1839);Sciobia;;lusitanica;;(Rambur, 1839)
+Gryllidae;Sciobia natalia Gorokhov, 1985;Sciobia;;natalia;;Gorokhov, 1985
+Gryllidae;Stenonemobius bicolor (Saussure, 1877);Stenonemobius;;bicolor;;(Saussure, 1877)
+Gryllidae;Stenonemobius gracilis (Jakovlev, 1871);Stenonemobius;;gracilis;;(Jakovlev, 1871)
+Gryllidae;Svercus palmetorum (Krauss, 1902);Svercus;;palmetorum;;(Krauss, 1902)
+Gryllidae;Tartarogryllus sandanski Andreeva, 1982;Tartarogryllus;;sandanski;;Andreeva, 1982
+Gryllidae;Tartarogryllus tartarus (Saussure, 1874);Tartarogryllus;;tartarus;;(Saussure, 1874)
+Gryllidae;Trigonidium cicindeloides Rambur, 1839;Trigonidium;;cicindeloides;;Rambur, 1839
+Gryllidae;Turanogryllus lateralis (Fieber, 1853);Turanogryllus;;lateralis;;(Fieber, 1853)
+Gryllotalpidae;Gryllotalpa africana Palisot de Beauvois, 1805;Gryllotalpa;;africana;;Palisot de Beauvois, 1805
+Gryllotalpidae;Gryllotalpa cossyrensis Baccetti & Capra, 1979;Gryllotalpa;;cossyrensis;;Baccetti & Capra, 1979
+Gryllotalpidae;Gryllotalpa gryllotalpa (Linnaeus, 1758);Gryllotalpa;;gryllotalpa;;(Linnaeus, 1758)
+Gryllotalpidae;Gryllotalpa krimbasi Baccetti, 1992;Gryllotalpa;;krimbasi;;Baccetti, 1992
+Gryllotalpidae;Gryllotalpa octodecim Baccetti & Capra, 1979;Gryllotalpa;;octodecim;;Baccetti & Capra, 1979
+Gryllotalpidae;Gryllotalpa quindecim Baccetti & Capra, 1979;Gryllotalpa;;quindecim;;Baccetti & Capra, 1979
+Gryllotalpidae;Gryllotalpa robusta Townsend, 1983;Gryllotalpa;;robusta;;Townsend, 1983
+Gryllotalpidae;Gryllotalpa sedecim Baccetti & Capra, 1979;Gryllotalpa;;sedecim;;Baccetti & Capra, 1979
+Gryllotalpidae;Gryllotalpa septemdecimchromosomica Ortiz, 1958;Gryllotalpa;;septemdecimchromosomica;;Ortiz, 1958
+Gryllotalpidae;Gryllotalpa stepposa Zhantiev, 1991;Gryllotalpa;;stepposa;;Zhantiev, 1991
+Gryllotalpidae;Gryllotalpa unispina Saussure, 1874;Gryllotalpa;;unispina;;Saussure, 1874
+Gryllotalpidae;Gryllotalpa viginti Baccetti & Capra, 1979;Gryllotalpa;;viginti;;Baccetti & Capra, 1979
+Gryllotalpidae;Gryllotalpa vigintiunum Baccetti, 1991;Gryllotalpa;;vigintiunum;;Baccetti, 1991
+Gryllotalpidae;Gryllotalpa vineae Bennet-Clark, 1970;Gryllotalpa;;vineae;;Bennet-Clark, 1970
+Meconematidae;Canariola emarginata Newman, 1964;Canariola;;emarginata;;Newman, 1964
+Meconematidae;Canariola nubigena (Krauss, 1892);Canariola;;nubigena;;(Krauss, 1892)
+Meconematidae;Canariola willemsei Morales Agacino, 1959;Canariola;;willemsei;;Morales Agacino, 1959
+Meconematidae;Cyrtaspis scutata (Charpentier, 1825);Cyrtaspis;;scutata;;(Charpentier, 1825)
+Meconematidae;Meconema meridionale A. Costa, 1860;Meconema;;meridionale;;A. Costa, 1860
+Meconematidae;Meconema thalassinum (De Geer, 1773);Meconema;;thalassinum;;(De Geer, 1773)
+Meconematidae;Phlugiola dahlemica Eichler, 1938;Phlugiola;;dahlemica;;Eichler, 1938
+Mogoplistidae;Arachnocephalus vestitus Costa, 1855;Arachnocephalus;;vestitus;;Costa, 1855
+Mogoplistidae;Cycloptiloides canariensis (Bolívar, 1914);Cycloptiloides;;canariensis;;(Bolívar, 1914)
+Mogoplistidae;Cycloptiloides orientalis Chopard, 1925;Cycloptiloides;;orientalis;;Chopard, 1925
+Mogoplistidae;Mogoplistes brunneus Serville, 1839;Mogoplistes;;brunneus;;Serville, 1839
+Mogoplistidae;Mogoplistes kinzelbachi Harz, 1976;Mogoplistes;;kinzelbachi;;Harz, 1976
+Mogoplistidae;Paramogoplistes dentatus Gorokhov & Llorente, 2001;Paramogoplistes;;dentatus;;Gorokhov & Llorente, 2001
+Mogoplistidae;Paramogoplistes novaki (Krauss, 1888);Paramogoplistes;;novaki;;(Krauss, 1888)
+Mogoplistidae;Pseudomogoplistes byzantius Gorochov, 1995;Pseudomogoplistes;;byzantius;;Gorochov, 1995
+Mogoplistidae;Pseudomogoplistes madeirae Gorochov & Marshall, 2001;Pseudomogoplistes;;madeirae;;Gorochov & Marshall, 2001
+Mogoplistidae;Pseudomogoplistes squamiger (Fischer, 1853);Pseudomogoplistes;;squamiger;;(Fischer, 1853)
+Mogoplistidae;Pseudomogoplistes vicentae Gorochov, 1996;Pseudomogoplistes;;vicentae;;Gorochov, 1996
+Myrmecophilidae;Myrmecophilus acervorum (Panzer, 1799);Myrmecophilus;;acervorum;;(Panzer, 1799)
+Myrmecophilidae;Myrmecophilus aequispina (Chopard, 1923);Myrmecophilus;;aequispina;;(Chopard, 1923)
+Myrmecophilidae;Myrmecophilus baronii Baccetti, 1966;Myrmecophilus;;baronii;;Baccetti, 1966
+Myrmecophilidae;Myrmecophilus hirticaudus (Fischer de Waldheim, 1846);Myrmecophilus;;hirticaudus;;(Fischer de Waldheim, 1846)
+Myrmecophilidae;Myrmecophilus myrmecophilus (Savi, 1819);Myrmecophilus;;myrmecophilus;;(Savi, 1819)
+Myrmecophilidae;Myrmecophilus ochraceus (Fischer, 1853);Myrmecophilus;;ochraceus;;(Fischer, 1853)
+Myrmecophilidae;Myrmecophilus salomonis (Wasmann, 1890);Myrmecophilus;;salomonis;;(Wasmann, 1890)
+Myrmecophilidae;Myrmecophilus termitophilus (Maran, 1959);Myrmecophilus;;termitophilus;;(Maran, 1959)
+Myrmecophilidae;Myrmecophilus zorae (Karaman, 1963);Myrmecophilus;;zorae;;(Karaman, 1963)
+Pamphagidae;Acinipe affinis (Fischer, 1853);Acinipe;;affinis;;(Fischer, 1853)
+Pamphagidae;Acinipe calabra (Costa, 1828);Acinipe;;calabra;;(Costa, 1828)
+Pamphagidae;Acinipe comptei Llorente, 1978;Acinipe;;comptei;;Llorente, 1978
+Pamphagidae;Acinipe deceptoria (Bolívar, 1878);Acinipe;;deceptoria;;(Bolívar, 1878)
+Pamphagidae;Acinipe galvagnii Cusimano & Massa, 1977;Acinipe;;galvagnii;;Cusimano & Massa, 1977
+Pamphagidae;Acinipe hesperica Rambur, 1838;Acinipe;;hesperica;;Rambur, 1838
+Pamphagidae;Acinipe ignatii Presa, 1983;Acinipe;;ignatii;;Presa, 1983
+Pamphagidae;Acinipe paulinoi (Saussure, 1887);Acinipe;;paulinoi;;(Saussure, 1887)
+Pamphagidae;Acinipe perisi Presa, 1883;Acinipe;;perisi;;Presa, 1883
+Pamphagidae;Acinipe segurensis (Bolívar, 1908);Acinipe;;segurensis;;(Bolívar, 1908)
+Pamphagidae;Acinipe tibialis (Fieber, 1853);Acinipe;;tibialis;;(Fieber, 1853)
+Pamphagidae;Acrostira bellamyi (Uvarov, 1922);Acrostira;;bellamyi;;(Uvarov, 1922)
+Pamphagidae;Acrostira euphorbiae Garcia-Becerra & Oromi, 1992;Acrostira;;euphorbiae;;Garcia-Becerra & Oromi, 1992
+Pamphagidae;Acrostira tamarani Báez, 1984;Acrostira;;tamarani;;Báez, 1984
+Pamphagidae;Asiotmethis limbatus (Charpentier, 1845);Asiotmethis;;limbatus;;(Charpentier, 1845)
+Pamphagidae;Asiotmethis muricatus (Pallas, 1771);Asiotmethis;;muricatus;;(Pallas, 1771)
+Pamphagidae;Asiotmethis tauricus (Tarbinsky, 1930);Asiotmethis;;tauricus;;(Tarbinsky, 1930)
+Pamphagidae;Eumigus ayresi Bolívar, 1912;Eumigus;;ayresi;;Bolívar, 1912
+Pamphagidae;Eumigus cucullatus (Bolívar, 1878);Eumigus;;cucullatus;;(Bolívar, 1878)
+Pamphagidae;Eumigus monticolus (Rambur, 1838);Eumigus;;monticolus;;(Rambur, 1838)
+Pamphagidae;Eumigus punctatus (Bolívar, 1902);Eumigus;;punctatus;;(Bolívar, 1902)
+Pamphagidae;Eumigus rubioi Harz, 1973;Eumigus;;rubioi;;Harz, 1973
+Pamphagidae;Euryparyphes bolivari (Stal, 1876);Euryparyphes;;bolivari;;(Stal, 1876)
+Pamphagidae;Euryparyphes stali (Bormans, 1879);Euryparyphes;;stali;;(Bormans, 1879)
+Pamphagidae;Euryparyphes terrulentus (Serville, 1839);Euryparyphes;;terrulentus;;(Serville, 1839)
+Pamphagidae;Glyphanus obtusus Fieber, 1853;Glyphanus;;obtusus;;Fieber, 1853
+Pamphagidae;Glyphotmethis escherichi (Krauss, 1896);Glyphotmethis;;escherichi;;(Krauss, 1896)
+Pamphagidae;Glyphotmethis heldreichi (Brunner von Wattenwyl, 1882);Glyphotmethis;;heldreichi;;(Brunner von Wattenwyl, 1882)
+Pamphagidae;Kurtharzia nugatoria (Navas, 1908);Kurtharzia;;nugatoria;;(Navas, 1908)
+Pamphagidae;Kurtharzia sulcata (Bolívar, 1912);Kurtharzia;;sulcata;;(Bolívar, 1912)
+Pamphagidae;Ocneridia nigropunctata (Lucas, 1849);Ocneridia;;nigropunctata;;(Lucas, 1849)
+Pamphagidae;Ocnerodes brunneri (Bolívar, 1876);Ocnerodes;;brunneri;;(Bolívar, 1876)
+Pamphagidae;Ocnerodes fallaciosus Bolívar, 1912;Ocnerodes;;fallaciosus;;Bolívar, 1912
+Pamphagidae;Ocnerodes prosternalis Bolívar, 1912;Ocnerodes;;prosternalis;;Bolívar, 1912
+Pamphagidae;Ocnerodes soleri Llorente & Presa, 1983;Ocnerodes;;soleri;;Llorente & Presa, 1983
+Pamphagidae;Orchamus gracilis (Brunner von Wattenwyl, 1882);Orchamus;;gracilis;;(Brunner von Wattenwyl, 1882)
+Pamphagidae;Orchamus raulinii (Lucas, 1854);Orchamus;;raulinii;;(Lucas, 1854)
+Pamphagidae;Orchamus yersini (Brunner von Wattenwyl, 1882);Orchamus;;yersini;;(Brunner von Wattenwyl, 1882)
+Pamphagidae;Pamphagus marmoratus Burmeister, 1838;Pamphagus;;marmoratus;;Burmeister, 1838
+Pamphagidae;Pamphagus ortolaniae Cusimano & Massa, 1977;Pamphagus;;ortolaniae;;Cusimano & Massa, 1977
+Pamphagidae;Pamphagus sardeus Herrich-Schäffer, 1840;Pamphagus;;sardeus;;Herrich-Schäffer, 1840
+Pamphagidae;Paranocaracris bulgaricus (Ebner & Drenowski, 1930);Paranocaracris;;bulgaricus;;(Ebner & Drenowski, 1930)
+Pamphagidae;Paranocarodes chopardi Peshev, 1965;Paranocarodes;;chopardi;;Peshev, 1965
+Pamphagidae;Paranocarodes fieberi (Brunner von Wattenwyl, 1882);Paranocarodes;;fieberi;;(Brunner von Wattenwyl, 1882)
+Pamphagidae;Paranocarodes straubei (Fieber, 1853);Paranocarodes;;straubei;;(Fieber, 1853)
+Pamphagidae;Prionotropis appula (Costa, 1836);Prionotropis;;appula;;(Costa, 1836)
+Pamphagidae;Prionotropis flexuosa (Serville, 1839);Prionotropis;;flexuosa;;(Serville, 1839)
+Pamphagidae;Prionotropis hystrix (Germar, 1817);Prionotropis;;hystrix;;(Germar, 1817)
+Pamphagidae;Prionotropis rhodanica Uvarov, 1923;Prionotropis;;rhodanica;;Uvarov, 1923
+Pamphagidae;Purpuraria erna Enderlein, 1929;Purpuraria;;erna;;Enderlein, 1929
+Phaneropteridae;Acrometopa cretensis Ramme, 1927;Acrometopa;;cretensis;;Ramme, 1927
+Phaneropteridae;Acrometopa servillea italica Ramme, 1927;Acrometopa;;servillea;italica;Ramme, 1927
+Phaneropteridae;Acrometopa servillea macropoda (Burmeister, 1838);Acrometopa;;servillea;macropoda;(Burmeister, 1838)
+Phaneropteridae;Acrometopa servillea servillea (Brullé, 1832);Acrometopa;;servillea;servillea;(Brullé, 1832)
+Phaneropteridae;Acrometopa servillea (Brullé, 1832);Acrometopa;;servillea;;(Brullé, 1832)
+Phaneropteridae;Acrometopa syriaca Brunner von Wattenwyl, 1878;Acrometopa;;syriaca;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Ancistrura nigrovittata (Brunner von Wattenwyl, 1878);Ancistrura;;nigrovittata;;(Brunner von Wattenwyl, 1878)
+Phaneropteridae;Andreiniimon nuptialis (Karny, 1918);Andreiniimon;;nuptialis;;(Karny, 1918)
+Phaneropteridae;Barbitistes constrictus Brunner von Wattenwyl, 1878;Barbitistes;;constrictus;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Barbitistes fischeri (Yersin, 1854);Barbitistes;;fischeri;;(Yersin, 1854)
+Phaneropteridae;Barbitistes kaltenbachi Harz, 1965;Barbitistes;;kaltenbachi;;Harz, 1965
+Phaneropteridae;Barbitistes obtusus Targioni-Tozzetti, 1881;Barbitistes;;obtusus;;Targioni-Tozzetti, 1881
+Phaneropteridae;Barbitistes ocskayi Charpentier, 1850;Barbitistes;;ocskayi;;Charpentier, 1850
+Phaneropteridae;Barbitistes serricauda (Fabricius, 1798);Barbitistes;;serricauda;;(Fabricius, 1798)
+Phaneropteridae;Barbitistes vicetinus Galvagni & Fontana, 1993;Barbitistes;;vicetinus;;Galvagni & Fontana, 1993
+Phaneropteridae;Barbitistes yersini Brunner von Wattenwyl, 1878;Barbitistes;;yersini;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Isophya amplipennis Brunner von Wattenwyl, 1878;Isophya;;amplipennis;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Isophya andreevae Peshev, 1981;Isophya;;andreevae;;Peshev, 1981
+Phaneropteridae;Isophya beybienkoi Maran, 1958;Isophya;;beybienkoi;;Maran, 1958
+Phaneropteridae;Isophya boldyrevi Miram, 1938;Isophya;;boldyrevi;;Miram, 1938
+Phaneropteridae;Isophya brevicauda Ramme, 1931;Isophya;;brevicauda;;Ramme, 1931
+Phaneropteridae;Isophya brevipennis Brunner von Wattenwyl, 1878;Isophya;;brevipennis;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Isophya brunneri Retowski, 1888;Isophya;;brunneri;;Retowski, 1888
+Phaneropteridae;Isophya bureschi Peshev, 1959;Isophya;;bureschi;;Peshev, 1959
+Phaneropteridae;Isophya camptoxypha (Fieber, 1853);Isophya;;camptoxypha;;(Fieber, 1853)
+Phaneropteridae;Isophya costata Brunner von Wattenwyl, 1878;Isophya;;costata;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Isophya dobrogensis Kis, 1994;Isophya;;dobrogensis;;Kis, 1994
+Phaneropteridae;Isophya doneciana Bey-Bienko, 1954;Isophya;;doneciana;;Bey-Bienko, 1954
+Phaneropteridae;Isophya gulae Peshev, 1981;Isophya;;gulae;;Peshev, 1981
+Phaneropteridae;Isophya harzi Kis, 1960;Isophya;;harzi;;Kis, 1960
+Phaneropteridae;Isophya hospodar (Saussure, 1898);Isophya;;hospodar;;(Saussure, 1898)
+Phaneropteridae;Isophya kisi Peshev, 1981;Isophya;;kisi;;Peshev, 1981
+Phaneropteridae;Isophya kraussii Brunner von Wattenwyl, 1878;Isophya;;kraussii;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Isophya lemnotica Werner, 1932;Isophya;;lemnotica;;Werner, 1932
+Phaneropteridae;Isophya leonorae Kaltenbach, 1965;Isophya;;leonorae;;Kaltenbach, 1965
+Phaneropteridae;Isophya mavromoustakisi Uvarov, 1936;Isophya;;mavromoustakisi;;Uvarov, 1936
+Phaneropteridae;Isophya miksici Peshev, 1985;Isophya;;miksici;;Peshev, 1985
+Phaneropteridae;Isophya modesta (Frivaldskyi, 1867);Isophya;;modesta;;(Frivaldskyi, 1867)
+Phaneropteridae;Isophya modestior Brunner von Wattenwyl, 1882;Isophya;;modestior;;Brunner von Wattenwyl, 1882
+Phaneropteridae;Isophya obtusa Brunner von Wattenwyl, 1882;Isophya;;obtusa;;Brunner von Wattenwyl, 1882
+Phaneropteridae;Isophya pavelii Brunner von Wattenwyl, 1882;Isophya;;pavelii;;Brunner von Wattenwyl, 1882
+Phaneropteridae;Isophya petkovi Peshev, 1959;Isophya;;petkovi;;Peshev, 1959
+Phaneropteridae;Isophya pienensis Maran, 1954;Isophya;;pienensis;;Maran, 1954
+Phaneropteridae;Isophya plevnensis Peshev, 1985;Isophya;;plevnensis;;Peshev, 1985
+Phaneropteridae;Isophya posthumoidalis Bazyluk, 1971;Isophya;;posthumoidalis;;Bazyluk, 1971
+Phaneropteridae;Isophya pravdini Peshev, 1985;Isophya;;pravdini;;Peshev, 1985
+Phaneropteridae;Isophya pyrenaea (Serville, 1839);Isophya;;pyrenaea;;(Serville, 1839)
+Phaneropteridae;Isophya rammei Peshev, 1981;Isophya;;rammei;;Peshev, 1981
+Phaneropteridae;Isophya rectipennis Brunner von Wattenwyl, 1878;Isophya;;rectipennis;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Isophya rhodopensis Ramme, 1951;Isophya;;rhodopensis;;Ramme, 1951
+Phaneropteridae;Isophya rossica Bey-Bienko, 1954;Isophya;;rossica;;Bey-Bienko, 1954
+Phaneropteridae;Isophya speciosa (Frivaldsky, 1867);Isophya;;speciosa;;(Frivaldsky, 1867)
+Phaneropteridae;Isophya stepposa Bey-Bienko, 1954;Isophya;;stepposa;;Bey-Bienko, 1954
+Phaneropteridae;Isophya straubei (Fieber, 1853);Isophya;;straubei;;(Fieber, 1853)
+Phaneropteridae;Isophya stysi Cejchan, 1957;Isophya;;stysi;;Cejchan, 1957
+Phaneropteridae;Isophya taurica Brunner von Wattenwyl, 1878;Isophya;;taurica;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Isophya thracica Karabag, 1962;Isophya;;thracica;;Karabag, 1962
+Phaneropteridae;Isophya tosevski Pavicevic, 1983;Isophya;;tosevski;;Pavicevic, 1983
+Phaneropteridae;Isophya zubowskii Bey-Bienko, 1954;Isophya;;zubowskii;;Bey-Bienko, 1954
+Phaneropteridae;Leptophyes albovittata (Kollar, 1833);Leptophyes;;albovittata;;(Kollar, 1833)
+Phaneropteridae;Leptophyes boscii Fieber, 1853;Leptophyes;;boscii;;Fieber, 1853
+Phaneropteridae;Leptophyes discoidalis (Frivaldsky, 1867);Leptophyes;;discoidalis;;(Frivaldsky, 1867)
+Phaneropteridae;Leptophyes laticauda (Frivaldsky, 1867);Leptophyes;;laticauda;;(Frivaldsky, 1867)
+Phaneropteridae;Leptophyes lisae Heller & F. Willemse, 1989;Leptophyes;;lisae;;Heller & F. Willemse, 1989
+Phaneropteridae;Leptophyes punctatissima (Bosc, 1792);Leptophyes;;punctatissima;;(Bosc, 1792)
+Phaneropteridae;Metaplastes ippolitoi La Greca, 1948;Metaplastes;;ippolitoi;;La Greca, 1948
+Phaneropteridae;Metaplastes oertzeni (Brunner von Wattenwyl, 1891);Metaplastes;;oertzeni;;(Brunner von Wattenwyl, 1891)
+Phaneropteridae;Metaplastes ornatus (Ramme, 1931);Metaplastes;;ornatus;;(Ramme, 1931)
+Phaneropteridae;Metaplastes pulchripennis (Costa, 1863);Metaplastes;;pulchripennis;;(Costa, 1863)
+Phaneropteridae;Odontura arcuata Messina, 1981;Odontura;;arcuata;;Messina, 1981
+Phaneropteridae;Odontura aspericauda Rambur, 1839;Odontura;;aspericauda;;Rambur, 1839
+Phaneropteridae;Odontura borrei Bolívar, 1878;Odontura;;borrei;;Bolívar, 1878
+Phaneropteridae;Odontura calaritana Costa, 1883;Odontura;;calaritana;;Costa, 1883
+Phaneropteridae;Odontura festai Baccetti, 1991;Odontura;;festai;;Baccetti, 1991
+Phaneropteridae;Odontura glabricauda (Charpentier, 1825);Odontura;;glabricauda;;(Charpentier, 1825)
+Phaneropteridae;Odontura macphersoni Morales Agacino, 1943;Odontura;;macphersoni;;Morales Agacino, 1943
+Phaneropteridae;Odontura stenoxypha (Fieber, 1853);Odontura;;stenoxypha;;(Fieber, 1853)
+Phaneropteridae;Phaneroptera falcata (Poda, 1761);Phaneroptera;;falcata;;(Poda, 1761)
+Phaneropteridae;Phaneroptera gracilis Burmeister, 1838;Phaneroptera;;gracilis;;Burmeister, 1838
+Phaneropteridae;Phaneroptera nana Fieber, 1853;Phaneroptera;;nana;;Fieber, 1853
+Phaneropteridae;Phaneroptera sparsa Stal, 1857;Phaneroptera;;sparsa;;Stal, 1857
+Phaneropteridae;Poecilimon aegaeus Werner, 1932;Poecilimon;;aegaeus;;Werner, 1932
+Phaneropteridae;Poecilimon affinis (Frivaldsky, 1867);Poecilimon;;affinis;;(Frivaldsky, 1867)
+Phaneropteridae;Poecilimon amissus Brunner von Wattenwyl, 1878;Poecilimon;;amissus;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Poecilimon ampliatus Brunner von Wattenwyl, 1878;Poecilimon;;ampliatus;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Poecilimon anatolicus Ramme, 1933;Poecilimon;;anatolicus;;Ramme, 1933
+Phaneropteridae;Poecilimon artedentatus Heller, 1984;Poecilimon;;artedentatus;;Heller, 1984
+Phaneropteridae;Poecilimon athos Tilmans, F. Willemse & L. Willemse, 1989;Poecilimon;;athos;;Tilmans, F. Willemse & L. Willemse, 1989
+Phaneropteridae;Poecilimon belasicensis Popov, 1997;Poecilimon;;belasicensis;;Popov, 1997
+Phaneropteridae;Poecilimon beybienkoi Tarbinski, 1932;Poecilimon;;beybienkoi;;Tarbinski, 1932
+Phaneropteridae;Poecilimon bidens Retowski, 1889;Poecilimon;;bidens;;Retowski, 1889
+Phaneropteridae;Poecilimon boldyrevi Miram, 1938;Poecilimon;;boldyrevi;;Miram, 1938
+Phaneropteridae;Poecilimon bosphoricus Brunner von Wattenwyl, 1878;Poecilimon;;bosphoricus;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Poecilimon brunneri (Frivaldsky, 1867);Poecilimon;;brunneri;;(Frivaldsky, 1867)
+Phaneropteridae;Poecilimon chopardi Ramme, 1933;Poecilimon;;chopardi;;Ramme, 1933
+Phaneropteridae;Poecilimon cretensis Werner, 1903;Poecilimon;;cretensis;;Werner, 1903
+Phaneropteridae;Poecilimon deplanatus Brunner von Wattenwyl, 1891;Poecilimon;;deplanatus;;Brunner von Wattenwyl, 1891
+Phaneropteridae;Poecilimon ebneri Ramme, 1933;Poecilimon;;ebneri;;Ramme, 1933
+Phaneropteridae;Poecilimon elegans Brunner von Wattenwyl, 1878;Poecilimon;;elegans;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Poecilimon erimanthos F. Willemse & Heller, 1992;Poecilimon;;erimanthos;;F. Willemse & Heller, 1992
+Phaneropteridae;Poecilimon fussii Brunner von Wattenwyl, 1878;Poecilimon;;fussii;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Poecilimon gracilioides F. Willemse & Heller, 1992;Poecilimon;;gracilioides;;F. Willemse & Heller, 1992
+Phaneropteridae;Poecilimon gracilis (Fieber, 1853);Poecilimon;;gracilis;;(Fieber, 1853)
+Phaneropteridae;Poecilimon hamatus Brunner von Wattenwyl, 1878;Poecilimon;;hamatus;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Poecilimon harzi Peshev, 1980;Poecilimon;;harzi;;Peshev, 1980
+Phaneropteridae;Poecilimon heinrichi (Ramme, 1951);Poecilimon;;heinrichi;;(Ramme, 1951)
+Phaneropteridae;Poecilimon heroicus Shchelkanovtsev, 1911;Poecilimon;;heroicus;;Shchelkanovtsev, 1911
+Phaneropteridae;Poecilimon hoelzeli Harz, 1966;Poecilimon;;hoelzeli;;Harz, 1966
+Phaneropteridae;Poecilimon ikariensis F. Willemse, 1982;Poecilimon;;ikariensis;;F. Willemse, 1982
+Phaneropteridae;Poecilimon intermedius (Fieber, 1853);Poecilimon;;intermedius;;(Fieber, 1853)
+Phaneropteridae;Poecilimon jonicus jonicus (Fieber, 1853);Poecilimon;;jonicus;jonicus;(Fieber, 1853)
+Phaneropteridae;Poecilimon jonicus lobulatus F. Willemse, 1982;Poecilimon;;jonicus;lobulatus;F. Willemse, 1982
+Phaneropteridae;Poecilimon jonicus superbus (Fischer, 1853);Poecilimon;;jonicus;superbus;(Fischer, 1853)
+Phaneropteridae;Poecilimon jonicus tessellatus (Fischer, 1853);Poecilimon;;jonicus;tessellatus;(Fischer, 1853)
+Phaneropteridae;Poecilimon jonicus (Fieber, 1853);Poecilimon;;jonicus;;(Fieber, 1853)
+Phaneropteridae;Poecilimon kisi Peshev, 1980;Poecilimon;;kisi;;Peshev, 1980
+Phaneropteridae;Poecilimon klisuriensis F. Willemse, 1982;Poecilimon;;klisuriensis;;F. Willemse, 1982
+Phaneropteridae;Poecilimon kusnezovi Miram, 1929;Poecilimon;;kusnezovi;;Miram, 1929
+Phaneropteridae;Poecilimon laevissimus (Fischer, 1853);Poecilimon;;laevissimus;;(Fischer, 1853)
+Phaneropteridae;Poecilimon macedonicus Ramme, 1926;Poecilimon;;macedonicus;;Ramme, 1926
+Phaneropteridae;Poecilimon mariannae F. Willemse & Heller, 1992;Poecilimon;;mariannae;;F. Willemse & Heller, 1992
+Phaneropteridae;Poecilimon marmaraensis Naskrecki, 1991;Poecilimon;;marmaraensis;;Naskrecki, 1991
+Phaneropteridae;Poecilimon miramae Ramme, 1933;Poecilimon;;miramae;;Ramme, 1933
+Phaneropteridae;Poecilimon mistshenkoi Peshev, 1980;Poecilimon;;mistshenkoi;;Peshev, 1980
+Phaneropteridae;Poecilimon mytilenensis Werner, 1932;Poecilimon;;mytilenensis;;Werner, 1932
+Phaneropteridae;Poecilimon nobilis Brunner von Wattenwyl, 1878;Poecilimon;;nobilis;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Poecilimon obesus Brunner von Wattenwyl, 1878;Poecilimon;;obesus;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Poecilimon orbelicus Pancic, 1883;Poecilimon;;orbelicus;;Pancic, 1883
+Phaneropteridae;Poecilimon ornatus (Schmidt, 1849);Poecilimon;;ornatus;;(Schmidt, 1849)
+Phaneropteridae;Poecilimon paros Heller & Reinhold, 1992;Poecilimon;;paros;;Heller & Reinhold, 1992
+Phaneropteridae;Poecilimon pechevi Andreeva, 1978;Poecilimon;;pechevi;;Andreeva, 1978
+Phaneropteridae;Poecilimon pergamicus Brunner von Wattenwyl, 1891;Poecilimon;;pergamicus;;Brunner von Wattenwyl, 1891
+Phaneropteridae;Poecilimon pindos F. Willemse, 1982;Poecilimon;;pindos;;F. Willemse, 1982
+Phaneropteridae;Poecilimon pliginskii Miram, 1929;Poecilimon;;pliginskii;;Miram, 1929
+Phaneropteridae;Poecilimon propinquus Brunner von Wattenwyl, 1878;Poecilimon;;propinquus;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Poecilimon sanctipauli Brunner von Wattenwyl, 1878;Poecilimon;;sanctipauli;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Poecilimon schmidtii (Fieber, 1853);Poecilimon;;schmidtii;;(Fieber, 1853)
+Phaneropteridae;Poecilimon scythicus Shchelkanovtsev, 1911;Poecilimon;;scythicus;;Shchelkanovtsev, 1911
+Phaneropteridae;Poecilimon soulion L. Willemse, 1987;Poecilimon;;soulion;;L. Willemse, 1987
+Phaneropteridae;Poecilimon syriacus Brunner von Wattenwyl, 1891;Poecilimon;;syriacus;;Brunner von Wattenwyl, 1891
+Phaneropteridae;Poecilimon tauricus Retowski, 1888;Poecilimon;;tauricus;;Retowski, 1888
+Phaneropteridae;Poecilimon thessalicus Brunner von Wattenwyl, 1891;Poecilimon;;thessalicus;;Brunner von Wattenwyl, 1891
+Phaneropteridae;Poecilimon thoracicus (Fieber, 1853);Poecilimon;;thoracicus;;(Fieber, 1853)
+Phaneropteridae;Poecilimon turcicus Karabag, 1950;Poecilimon;;turcicus;;Karabag, 1950
+Phaneropteridae;Poecilimon unispinosus Brunner von Wattenwyl, 1878;Poecilimon;;unispinosus;;Brunner von Wattenwyl, 1878
+Phaneropteridae;Poecilimon veluchianus Ramme, 1933;Poecilimon;;veluchianus;;Ramme, 1933
+Phaneropteridae;Poecilimon vodnensis Karaman, 1958;Poecilimon;;vodnensis;;Karaman, 1958
+Phaneropteridae;Poecilimon werneri Ramme, 1933;Poecilimon;;werneri;;Ramme, 1933
+Phaneropteridae;Poecilimon zimmeri Ramme, 1933;Poecilimon;;zimmeri;;Ramme, 1933
+Phaneropteridae;Poecilimon zwicki Ramme, 1939;Poecilimon;;zwicki;;Ramme, 1939
+Phaneropteridae;Polysarcus denticauda (Charpentier, 1825);Polysarcus;;denticauda;;(Charpentier, 1825)
+Phaneropteridae;Polysarcus scutatus (Brunner von Wattenwyl, 1882);Polysarcus;;scutatus;;(Brunner von Wattenwyl, 1882)
+Phaneropteridae;Tylopsis lilifolia (Fabricius, 1793);Tylopsis;;lilifolia;;(Fabricius, 1793)
+Pyrgomorphidae;Pyrgomorpha bispinosa Walker, 1870;Pyrgomorpha;;bispinosa;;Walker, 1870
+Pyrgomorphidae;Pyrgomorpha cognata Krauss, 1877;Pyrgomorpha;;cognata;;Krauss, 1877
+Pyrgomorphidae;Pyrgomorpha conica (Olivier, 1791);Pyrgomorpha;;conica;;(Olivier, 1791)
+Pyrgomorphidae;Pyrgomorpha cypria Bolívar, 1901;Pyrgomorpha;;cypria;;Bolívar, 1901
+Pyrgomorphidae;Pyrgomorphella serbica (Brunner von Wattenwyl, 1882);Pyrgomorphella;;serbica;;(Brunner von Wattenwyl, 1882)
+Rhaphidophoridae;Dolichopoda aegilion Baccetti, 1977;Dolichopoda;;aegilion;;Baccetti, 1977
+Rhaphidophoridae;Dolichopoda annae Boudou-Saltet, 1973;Dolichopoda;;annae;;Boudou-Saltet, 1973
+Rhaphidophoridae;Dolichopoda araneiformis (Burmeister, 1838);Dolichopoda;;araneiformis;;(Burmeister, 1838)
+Rhaphidophoridae;Dolichopoda azami Saulcy, 1893;Dolichopoda;;azami;;Saulcy, 1893
+Rhaphidophoridae;Dolichopoda baccettii Capra, 1957;Dolichopoda;;baccettii;;Capra, 1957
+Rhaphidophoridae;Dolichopoda bolivari Chopard, 1915;Dolichopoda;;bolivari;;Chopard, 1915
+Rhaphidophoridae;Dolichopoda bormansi Brunner von Wattenwyl, 1882;Dolichopoda;;bormansi;;Brunner von Wattenwyl, 1882
+Rhaphidophoridae;Dolichopoda calabra Galvagni, 1968;Dolichopoda;;calabra;;Galvagni, 1968
+Rhaphidophoridae;Dolichopoda capreensis Capra, 1968;Dolichopoda;;capreensis;;Capra, 1968
+Rhaphidophoridae;Dolichopoda cassagnaui Boudou-Saltet, 1971;Dolichopoda;;cassagnaui;;Boudou-Saltet, 1971
+Rhaphidophoridae;Dolichopoda chopardi Baccetti, 1966;Dolichopoda;;chopardi;;Baccetti, 1966
+Rhaphidophoridae;Dolichopoda cyrnensis Chopard, 1950;Dolichopoda;;cyrnensis;;Chopard, 1950
+Rhaphidophoridae;Dolichopoda dalensi Boudou-Saltet, 1972;Dolichopoda;;dalensi;;Boudou-Saltet, 1972
+Rhaphidophoridae;Dolichopoda geniculata (Costa, 1860);Dolichopoda;;geniculata;;(Costa, 1860)
+Rhaphidophoridae;Dolichopoda graeca Chopard, 1964;Dolichopoda;;graeca;;Chopard, 1964
+Rhaphidophoridae;Dolichopoda hussoni Chopard, 1934;Dolichopoda;;hussoni;;Chopard, 1934
+Rhaphidophoridae;Dolichopoda insignis Chopard, 1955;Dolichopoda;;insignis;;Chopard, 1955
+Rhaphidophoridae;Dolichopoda laetitiae Minozzi, 1920;Dolichopoda;;laetitiae;;Minozzi, 1920
+Rhaphidophoridae;Dolichopoda ligustica Baccetti & Capra, 1958;Dolichopoda;;ligustica;;Baccetti & Capra, 1958
+Rhaphidophoridae;Dolichopoda linderi (Dufour, 1861);Dolichopoda;;linderi;;(Dufour, 1861)
+Rhaphidophoridae;Dolichopoda makrykapa Boudou-Saltet, 1980;Dolichopoda;;makrykapa;;Boudou-Saltet, 1980
+Rhaphidophoridae;Dolichopoda matsakisi Boudou-Saltet, 1972;Dolichopoda;;matsakisi;;Boudou-Saltet, 1972
+Rhaphidophoridae;Dolichopoda naxia Boudou-Saltet, 1972;Dolichopoda;;naxia;;Boudou-Saltet, 1972
+Rhaphidophoridae;Dolichopoda palpata (Sulzer, 1776);Dolichopoda;;palpata;;(Sulzer, 1776)
+Rhaphidophoridae;Dolichopoda paraskevi Boudou-Saltet, 1973;Dolichopoda;;paraskevi;;Boudou-Saltet, 1973
+Rhaphidophoridae;Dolichopoda patrizii Chopard, 1964;Dolichopoda;;patrizii;;Chopard, 1964
+Rhaphidophoridae;Dolichopoda pavesii Galvagni, 2002;Dolichopoda;;pavesii;;Galvagni, 2002
+Rhaphidophoridae;Dolichopoda petrochilosi Chopard, 1954;Dolichopoda;;petrochilosi;;Chopard, 1954
+Rhaphidophoridae;Dolichopoda remyi Chopard, 1934;Dolichopoda;;remyi;;Chopard, 1934
+Rhaphidophoridae;Dolichopoda schiavazzii Capra, 1934;Dolichopoda;;schiavazzii;;Capra, 1934
+Rhaphidophoridae;Dolichopoda steriotisi Boudou-Saltet, 1972;Dolichopoda;;steriotisi;;Boudou-Saltet, 1972
+Rhaphidophoridae;Dolichopoda thasosensis Chopard, 1964;Dolichopoda;;thasosensis;;Chopard, 1964
+Rhaphidophoridae;Dolichopoda unicolor Chopard, 1964;Dolichopoda;;unicolor;;Chopard, 1964
+Rhaphidophoridae;Dolichopoda vandeli Boudou-Saltet, 1970;Dolichopoda;;vandeli;;Boudou-Saltet, 1970
+Rhaphidophoridae;Tachycines asynamorus Adelung, 1902;Tachycines;;asynamorus;;Adelung, 1902
+Rhaphidophoridae;Troglophilus andreinii Capra, 1927;Troglophilus;;andreinii;;Capra, 1927
+Rhaphidophoridae;Troglophilus brevicauda Chopard, 1934;Troglophilus;;brevicauda;;Chopard, 1934
+Rhaphidophoridae;Troglophilus bukovici Karaman, 1968;Troglophilus;;bukovici;;Karaman, 1968
+Rhaphidophoridae;Troglophilus cavicola (Kollar, 1833);Troglophilus;;cavicola;;(Kollar, 1833)
+Rhaphidophoridae;Troglophilus lagoi Menozzi, 1934;Troglophilus;;lagoi;;Menozzi, 1934
+Rhaphidophoridae;Troglophilus lazaropolensis Karaman, 1958;Troglophilus;;lazaropolensis;;Karaman, 1958
+Rhaphidophoridae;Troglophilus neglectus Krauss, 1879;Troglophilus;;neglectus;;Krauss, 1879
+Rhaphidophoridae;Troglophilus ovuliformis Karny, 1907;Troglophilus;;ovuliformis;;Karny, 1907
+Rhaphidophoridae;Troglophilus pretneri Us, 1970;Troglophilus;;pretneri;;Us, 1970
+Rhaphidophoridae;Troglophilus spinulosus Chopard, 1921;Troglophilus;;spinulosus;;Chopard, 1921
+Rhaphidophoridae;Troglophilus vlassinensis Maran, 1958;Troglophilus;;vlassinensis;;Maran, 1958
+Tetrigidae;Paratettix meridionalis (Rambur, 1838);Paratettix;;meridionalis;;(Rambur, 1838)
+Tetrigidae;Tetrix bipunctata (Linnaeus, 1758);Tetrix;;bipunctata;;(Linnaeus, 1758)
+Tetrigidae;Tetrix bolivari Saulcy, 1901;Tetrix;;bolivari;;Saulcy, 1901
+Tetrigidae;Tetrix ceperoi Bolívar, 1887;Tetrix;;ceperoi;;Bolívar, 1887
+Tetrigidae;Tetrix fuliginosa (Zetterstedt, 1828);Tetrix;;fuliginosa;;(Zetterstedt, 1828)
+Tetrigidae;Tetrix subulata (Linnaeus, 1758);Tetrix;;subulata;;(Linnaeus, 1758)
+Tetrigidae;Tetrix tenuicornis (Sahlberg, 1893);Tetrix;;tenuicornis;;(Sahlberg, 1893)
+Tetrigidae;Tetrix tuerki Krauss, 1876;Tetrix;;tuerki;;Krauss, 1876
+Tetrigidae;Tetrix undulata (Sowerby, 1806);Tetrix;;undulata;;(Sowerby, 1806)
+Tetrigidae;Uvarovitettix depressus (Brisout de Barneville, 1849);Uvarovitettix;;depressus;;(Brisout de Barneville, 1849)
+Tetrigidae;Uvarovitettix nodulosus (Fieber, 1853);Uvarovitettix;;nodulosus;;(Fieber, 1853)
+Tetrigidae;Uvarovitettix transsylvanicus (Bazyluk & Kis, 1960);Uvarovitettix;;transsylvanicus;;(Bazyluk & Kis, 1960)
+Tettigoniidae;Amphiestris baetica (Rambur, 1839);Amphiestris;;baetica;;(Rambur, 1839)
+Tettigoniidae;Anadrymadusa brevipennis (Brunner von Wattenwyl, 1882);Anadrymadusa;;brevipennis;;(Brunner von Wattenwyl, 1882)
+Tettigoniidae;Anadrymadusa ornatipennis (Ramme, 1926);Anadrymadusa;;ornatipennis;;(Ramme, 1926)
+Tettigoniidae;Anadrymadusa retowskii (Adelung, 1907);Anadrymadusa;;retowskii;;(Adelung, 1907)
+Tettigoniidae;Anonconotus alpinus (Yersin, 1858);Anonconotus;;alpinus;;(Yersin, 1858)
+Tettigoniidae;Anonconotus apenninigenus (Targioni-Tozzetti, 1881);Anonconotus;;apenninigenus;;(Targioni-Tozzetti, 1881)
+Tettigoniidae;Anonconotus baracunensis baracunensis Nadig, 1987;Anonconotus;;baracunensis;baracunensis;Nadig, 1987
+Tettigoniidae;Anonconotus baracunensis occidentalis Carron & Wermeille, 2002;Anonconotus;;baracunensis;occidentalis;Carron & Wermeille, 2002
+Tettigoniidae;Anonconotus baracunensis Nadig, 1987;Anonconotus;;baracunensis;;Nadig, 1987
+Tettigoniidae;Anonconotus ligustinus Galvagni, 2002;Anonconotus;;ligustinus;;Galvagni, 2002
+Tettigoniidae;Anonconotus pusillus Carron & Sardet, 2002;Anonconotus;;pusillus;;Carron & Sardet, 2002
+Tettigoniidae;Anonconotus sibyllinus Galvagni, 2002;Anonconotus;;sibyllinus;;Galvagni, 2002
+Tettigoniidae;Antaxius beieri Harz, 1966;Antaxius;;beieri;;Harz, 1966
+Tettigoniidae;Antaxius bouveri Chopard, 1923;Antaxius;;bouveri;;Chopard, 1923
+Tettigoniidae;Antaxius capellei Cazurro, 1888;Antaxius;;capellei;;Cazurro, 1888
+Tettigoniidae;Antaxius chopardi Morales Agacino, 1936;Antaxius;;chopardi;;Morales Agacino, 1936
+Tettigoniidae;Antaxius difformis (Brunner von Wattenwyl, 1861);Antaxius;;difformis;;(Brunner von Wattenwyl, 1861)
+Tettigoniidae;Antaxius florezi Bolivar, 1900;Antaxius;;florezi;;Bolivar, 1900
+Tettigoniidae;Antaxius hispanicus Bolívar, 1887;Antaxius;;hispanicus;;Bolívar, 1887
+Tettigoniidae;Antaxius kraussii (Bolívar, 1878);Antaxius;;kraussii;;(Bolívar, 1878)
+Tettigoniidae;Antaxius maculipedes Ingrisch, 1983;Antaxius;;maculipedes;;Ingrisch, 1983
+Tettigoniidae;Antaxius pedestris (Fabricius, 1787);Antaxius;;pedestris;;(Fabricius, 1787)
+Tettigoniidae;Antaxius sorrezensis (Marquet, 1877);Antaxius;;sorrezensis;;(Marquet, 1877)
+Tettigoniidae;Antaxius spinibrachius (Fischer, 1853);Antaxius;;spinibrachius;;(Fischer, 1853)
+Tettigoniidae;Anterastes serbicus Brunner von Wattenwyl, 1882;Anterastes;;serbicus;;Brunner von Wattenwyl, 1882
+Tettigoniidae;Ariagona margaritae Krauss, 1892;Ariagona;;margaritae;;Krauss, 1892
+Tettigoniidae;Bucephaloptera bucephala (Brunner von Wattenwyl, 1882);Bucephaloptera;;bucephala;;(Brunner von Wattenwyl, 1882)
+Tettigoniidae;Bucephaloptera cypria Ramme, 1933;Bucephaloptera;;cypria;;Ramme, 1933
+Tettigoniidae;Calliphona alluaudi Bolívar, 1893;Calliphona;;alluaudi;;Bolívar, 1893
+Tettigoniidae;Calliphona barretoi (Chopard, 1938);Calliphona;;barretoi;;(Chopard, 1938)
+Tettigoniidae;Calliphona koenigi Krauss, 1892;Calliphona;;koenigi;;Krauss, 1892
+Tettigoniidae;Calliphona palmensis Bolívar, 1940;Calliphona;;palmensis;;Bolívar, 1940
+Tettigoniidae;Ceraeocercus fuscipennis Uvarov, 1910;Ceraeocercus;;fuscipennis;;Uvarov, 1910
+Tettigoniidae;Ctenodecticus bolivari Targioni-Tozzetti, 1881;Ctenodecticus;;bolivari;;Targioni-Tozzetti, 1881
+Tettigoniidae;Ctenodecticus granatensis Pascual, 1978;Ctenodecticus;;granatensis;;Pascual, 1978
+Tettigoniidae;Ctenodecticus lusitanicus Barranco & Pascual, 1992;Ctenodecticus;;lusitanicus;;Barranco & Pascual, 1992
+Tettigoniidae;Ctenodecticus major Pascual, 1978;Ctenodecticus;;major;;Pascual, 1978
+Tettigoniidae;Ctenodecticus masferreri Bolívar, 1894;Ctenodecticus;;masferreri;;Bolívar, 1894
+Tettigoniidae;Ctenodecticus pupulus Bolívar, 1876;Ctenodecticus;;pupulus;;Bolívar, 1876
+Tettigoniidae;Ctenodecticus ramburi Morales Agacino, 1956;Ctenodecticus;;ramburi;;Morales Agacino, 1956
+Tettigoniidae;Ctenodecticus thymi Olmo-Vidal, 1999;Ctenodecticus;;thymi;;Olmo-Vidal, 1999
+Tettigoniidae;Decorana decorata (Fieber, 1853);Decorana;;decorata;;(Fieber, 1853)
+Tettigoniidae;Decticus albifrons (Fabricius, 1775);Decticus;;albifrons;;(Fabricius, 1775)
+Tettigoniidae;Decticus loudoni Ramme, 1933;Decticus;;loudoni;;Ramme, 1933
+Tettigoniidae;Decticus verrucivorus assiduus Ingrisch, F. Willemse & Heller, 1992;Decticus;;verrucivorus;assiduus;Ingrisch, F. Willemse & Heller, 1992
+Tettigoniidae;Decticus verrucivorus verrucivorus (Linnaeus, 1758);Decticus;;verrucivorus;verrucivorus;(Linnaeus, 1758)
+Tettigoniidae;Decticus verrucivorus (Linnaeus, 1758);Decticus;;verrucivorus;;(Linnaeus, 1758)
+Tettigoniidae;Drymadusa dorsalis (Brullé, 1832);Drymadusa;;dorsalis;;(Brullé, 1832)
+Tettigoniidae;Eupholidoptera annamariae Nadig, 1985;Eupholidoptera;;annamariae;;Nadig, 1985
+Tettigoniidae;Eupholidoptera astyla (Ramme, 1927);Eupholidoptera;;astyla;;(Ramme, 1927)
+Tettigoniidae;Eupholidoptera beybienkoi Peshev, 1962;Eupholidoptera;;beybienkoi;;Peshev, 1962
+Tettigoniidae;Eupholidoptera chabrieri (Charpentier, 1825);Eupholidoptera;;chabrieri;;(Charpentier, 1825)
+Tettigoniidae;Eupholidoptera cretica Ramme, 1951;Eupholidoptera;;cretica;;Ramme, 1951
+Tettigoniidae;Eupholidoptera cypria Ramme, 1951;Eupholidoptera;;cypria;;Ramme, 1951
+Tettigoniidae;Eupholidoptera danconai La Greca, 1959;Eupholidoptera;;danconai;;La Greca, 1959
+Tettigoniidae;Eupholidoptera epirotica (Ramme, 1927);Eupholidoptera;;epirotica;;(Ramme, 1927)
+Tettigoniidae;Eupholidoptera forcipata F. Willemse & Kruseman, 1976;Eupholidoptera;;forcipata;;F. Willemse & Kruseman, 1976
+Tettigoniidae;Eupholidoptera gemellata F. Willemse & Kruseman, 1976;Eupholidoptera;;gemellata;;F. Willemse & Kruseman, 1976
+Tettigoniidae;Eupholidoptera giuliae Massa, 1999;Eupholidoptera;;giuliae;;Massa, 1999
+Tettigoniidae;Eupholidoptera hesperica La Greca, 1959;Eupholidoptera;;hesperica;;La Greca, 1959
+Tettigoniidae;Eupholidoptera icariensis F. Willemse, 1980;Eupholidoptera;;icariensis;;F. Willemse, 1980
+Tettigoniidae;Eupholidoptera jacquelinae Tilmans, 2002;Eupholidoptera;;jacquelinae;;Tilmans, 2002
+Tettigoniidae;Eupholidoptera kinzelbachi Harz, 1981;Eupholidoptera;;kinzelbachi;;Harz, 1981
+Tettigoniidae;Eupholidoptera latens F. Willemse & Kruseman, 1976;Eupholidoptera;;latens;;F. Willemse & Kruseman, 1976
+Tettigoniidae;Eupholidoptera leucasi F. Willemse, 1980;Eupholidoptera;;leucasi;;F. Willemse, 1980
+Tettigoniidae;Eupholidoptera marani Peshev, 1960;Eupholidoptera;;marani;;Peshev, 1960
+Tettigoniidae;Eupholidoptera mariannae F. Willemse & Heller, 2001;Eupholidoptera;;mariannae;;F. Willemse & Heller, 2001
+Tettigoniidae;Eupholidoptera megastyla (Ramme, 1939);Eupholidoptera;;megastyla;;(Ramme, 1939)
+Tettigoniidae;Eupholidoptera pallipes F. Willemse & Kruseman, 1976;Eupholidoptera;;pallipes;;F. Willemse & Kruseman, 1976
+Tettigoniidae;Eupholidoptera prasina (Brunner von Wattenwyl, 1882);Eupholidoptera;;prasina;;(Brunner von Wattenwyl, 1882)
+Tettigoniidae;Eupholidoptera rammei F. Willemse & Heller, 2001;Eupholidoptera;;rammei;;F. Willemse & Heller, 2001
+Tettigoniidae;Eupholidoptera smyrnensis (Brunner von Wattenwyl, 1882);Eupholidoptera;;smyrnensis;;(Brunner von Wattenwyl, 1882)
+Tettigoniidae;Eupholidoptera spinigera (Ramme, 1930);Eupholidoptera;;spinigera;;(Ramme, 1930)
+Tettigoniidae;Eupholidoptera uvarovi (Karabag, 1952);Eupholidoptera;;uvarovi;;(Karabag, 1952)
+Tettigoniidae;Evergoderes cabrerai Bolívar, 1936;Evergoderes;;cabrerai;;Bolívar, 1936
+Tettigoniidae;Exodrymadusa inornata (Uvarov, 1936);Exodrymadusa;;inornata;;(Uvarov, 1936)
+Tettigoniidae;Gampsocleis abbreviata Herman, 1874;Gampsocleis;;abbreviata;;Herman, 1874
+Tettigoniidae;Gampsocleis glabra (Herbst, 1786);Gampsocleis;;glabra;;(Herbst, 1786)
+Tettigoniidae;Gampsocleis schelkovnikovae Adelung, 1916;Gampsocleis;;schelkovnikovae;;Adelung, 1916
+Tettigoniidae;Gampsocleis sedakovi (Fischer de Waldheim, 1846);Gampsocleis;;sedakovi;;(Fischer de Waldheim, 1846)
+Tettigoniidae;Medecticus assimilis (Fieber, 1853);Medecticus;;assimilis;;(Fieber, 1853)
+Tettigoniidae;Metrioptera (Metrioptera) ambigua Pfau, 1986;Metrioptera;Metrioptera;ambigua;;Pfau, 1986
+Tettigoniidae;Metrioptera (Metrioptera) arnoldi Ramme, 1933;Metrioptera;Metrioptera;arnoldi;;Ramme, 1933
+Tettigoniidae;Metrioptera (Metrioptera) bicolor (Philippi, 1830);Metrioptera;Metrioptera;bicolor;;(Philippi, 1830)
+Tettigoniidae;Metrioptera (Metrioptera) brachyptera (Linnaeus, 1761);Metrioptera;Metrioptera;brachyptera;;(Linnaeus, 1761)
+Tettigoniidae;Metrioptera (Metrioptera) buyssoni (Saulcy, 1887);Metrioptera;Metrioptera;buyssoni;;(Saulcy, 1887)
+Tettigoniidae;Metrioptera (Metrioptera) caprai Baccetti, 1956;Metrioptera;Metrioptera;caprai;;Baccetti, 1956
+Tettigoniidae;Metrioptera (Metrioptera) domogledi Brunner von Wattenwyl, 1882;Metrioptera;Metrioptera;domogledi;;Brunner von Wattenwyl, 1882
+Tettigoniidae;Metrioptera (Metrioptera) helleri Schmidt, 1998;Metrioptera;Metrioptera;helleri;;Schmidt, 1998
+Tettigoniidae;Metrioptera (Metrioptera) hoermanni (Werner, 1906);Metrioptera;Metrioptera;hoermanni;;(Werner, 1906)
+Tettigoniidae;Metrioptera (Metrioptera) karnyana Uvarov, 1921;Metrioptera;Metrioptera;karnyana;;Uvarov, 1921
+Tettigoniidae;Metrioptera (Metrioptera) kuntzeni Ramme, 1931;Metrioptera;Metrioptera;kuntzeni;;Ramme, 1931
+Tettigoniidae;Metrioptera (Metrioptera) maritima Olmo-Vidal, 1992;Metrioptera;Metrioptera;maritima;;Olmo-Vidal, 1992
+Tettigoniidae;Metrioptera (Metrioptera) oblongicollis Brunner von Wattenwyl, 1882;Metrioptera;Metrioptera;oblongicollis;;Brunner von Wattenwyl, 1882
+Tettigoniidae;Metrioptera (Metrioptera) prenjica (Burr, 1899);Metrioptera;Metrioptera;prenjica;;(Burr, 1899)
+Tettigoniidae;Metrioptera (Metrioptera) roeselii (Hagenbach, 1822);Metrioptera;Metrioptera;roeselii;;(Hagenbach, 1822)
+Tettigoniidae;Metrioptera (Metrioptera) saussuriana (Frey-Gessner, 1872);Metrioptera;Metrioptera;saussuriana;;(Frey-Gessner, 1872)
+Tettigoniidae;Metrioptera (Metrioptera) tsirojanni Harz & Pfau, 1983;Metrioptera;Metrioptera;tsirojanni;;Harz & Pfau, 1983
+Tettigoniidae;Metrioptera (Zeuneriana) abbreviata (Serville, 1839);Metrioptera;Zeuneriana;abbreviata;;(Serville, 1839)
+Tettigoniidae;Metrioptera (Zeuneriana) amplipennis (Brunner von Wattenwyl, 1882);Metrioptera;Zeuneriana;amplipennis;;(Brunner von Wattenwyl, 1882)
+Tettigoniidae;Metrioptera (Zeuneriana) burriana Uvarov, 1935;Metrioptera;Zeuneriana;burriana;;Uvarov, 1935
+Tettigoniidae;Metrioptera (Zeuneriana) marmorata (Fieber, 1853);Metrioptera;Zeuneriana;marmorata;;(Fieber, 1853)
+Tettigoniidae;Miramiola pusilla (Miram, 1927);Miramiola;;pusilla;;(Miram, 1927)
+Tettigoniidae;Onconotus laxmanni (Pallas, 1771);Onconotus;;laxmanni;;(Pallas, 1771)
+Tettigoniidae;Onconotus servillei Fischer de Waldheim, 1846;Onconotus;;servillei;;Fischer de Waldheim, 1846
+Tettigoniidae;Pachytrachis bosniacus Messina, 1978;Pachytrachis;;bosniacus;;Messina, 1978
+Tettigoniidae;Pachytrachis frater (Brunner von Wattenwyl, 1882);Pachytrachis;;frater;;(Brunner von Wattenwyl, 1882)
+Tettigoniidae;Pachytrachis gracilis (Brunner von Wattenwyl, 1861);Pachytrachis;;gracilis;;(Brunner von Wattenwyl, 1861)
+Tettigoniidae;Pachytrachis striolatus (Fieber, 1853);Pachytrachis;;striolatus;;(Fieber, 1853)
+Tettigoniidae;Paradrymadusa galitzini Retowski, 1888;Paradrymadusa;;galitzini;;Retowski, 1888
+Tettigoniidae;Parapholidoptera castaneoviridis (Brunner von Wattenwyl, 1882);Parapholidoptera;;castaneoviridis;;(Brunner von Wattenwyl, 1882)
+Tettigoniidae;Parapholidoptera noxia (Ramme, 1930);Parapholidoptera;;noxia;;(Ramme, 1930)
+Tettigoniidae;Parapholidoptera signata (Brunner von Wattenwyl, 1861);Parapholidoptera;;signata;;(Brunner von Wattenwyl, 1861)
+Tettigoniidae;Pholidoptera aptera (Fabricius, 1793);Pholidoptera;;aptera;;(Fabricius, 1793)
+Tettigoniidae;Pholidoptera brevipes Ramme, 1939;Pholidoptera;;brevipes;;Ramme, 1939
+Tettigoniidae;Pholidoptera dalmatica (Krauss, 1899);Pholidoptera;;dalmatica;;(Krauss, 1899)
+Tettigoniidae;Pholidoptera ebneri Ramme, 1931;Pholidoptera;;ebneri;;Ramme, 1931
+Tettigoniidae;Pholidoptera fallax (Fischer, 1853);Pholidoptera;;fallax;;(Fischer, 1853)
+Tettigoniidae;Pholidoptera femorata (Fieber, 1853);Pholidoptera;;femorata;;(Fieber, 1853)
+Tettigoniidae;Pholidoptera frivaldskyi (Herman, 1871);Pholidoptera;;frivaldskyi;;(Herman, 1871)
+Tettigoniidae;Pholidoptera ganevi Harz, 1986;Pholidoptera;;ganevi;;Harz, 1986
+Tettigoniidae;Pholidoptera griseoaptera (De Geer, 1773);Pholidoptera;;griseoaptera;;(De Geer, 1773)
+Tettigoniidae;Pholidoptera littoralis (Fieber, 1853);Pholidoptera;;littoralis;;(Fieber, 1853)
+Tettigoniidae;Pholidoptera lucasi F. Willemse, 1976;Pholidoptera;;lucasi;;F. Willemse, 1976
+Tettigoniidae;Pholidoptera macedonica Ramme, 1928;Pholidoptera;;macedonica;;Ramme, 1928
+Tettigoniidae;Pholidoptera pustulipes (Fischer de Waldheim, 1846);Pholidoptera;;pustulipes;;(Fischer de Waldheim, 1846)
+Tettigoniidae;Pholidoptera stankoi Karaman, 1960;Pholidoptera;;stankoi;;Karaman, 1960
+Tettigoniidae;Pholidoptera transsylvanica (Fischer, 1853);Pholidoptera;;transsylvanica;;(Fischer, 1853)
+Tettigoniidae;Platycleis (Modestana) ebneri (Ramme, 1926);Platycleis;Modestana;ebneri;;(Ramme, 1926)
+Tettigoniidae;Platycleis (Modestana) kraussi Padewieth, 1900;Platycleis;Modestana;kraussi;;Padewieth, 1900
+Tettigoniidae;Platycleis (Modestana) modesta Fieber, 1853;Platycleis;Modestana;modesta;;Fieber, 1853
+Tettigoniidae;Platycleis (Montana) barretoi Burr, 1912;Platycleis;Montana;barretoi;;Burr, 1912
+Tettigoniidae;Platycleis (Montana) carpetana Bolívar, 1887;Platycleis;Montana;carpetana;;Bolívar, 1887
+Tettigoniidae;Platycleis (Montana) eversmanni (Kittary, 1849);Platycleis;Montana;eversmanni;;(Kittary, 1849)
+Tettigoniidae;Platycleis (Montana) macedonica Berland & Chopard, 1922;Platycleis;Montana;macedonica;;Berland & Chopard, 1922
+Tettigoniidae;Platycleis (Montana) medvedevi (Miram, 1927);Platycleis;Montana;medvedevi;;(Miram, 1927)
+Tettigoniidae;Platycleis (Montana) montana (Kollar, 1833);Platycleis;Montana;montana;;(Kollar, 1833)
+Tettigoniidae;Platycleis (Montana) striata (Kittary, 1849);Platycleis;Montana;striata;;(Kittary, 1849)
+Tettigoniidae;Platycleis (Montana) stricta (Zeller, 1849);Platycleis;Montana;stricta;;(Zeller, 1849)
+Tettigoniidae;Platycleis (Parnassiana) chelmos (Zeuner, 1941);Platycleis;Parnassiana;chelmos;;(Zeuner, 1941)
+Tettigoniidae;Platycleis (Parnassiana) coracis Ramme, 1920;Platycleis;Parnassiana;coracis;;Ramme, 1920
+Tettigoniidae;Platycleis (Parnassiana) dirphys (F. Willemse, 1980);Platycleis;Parnassiana;dirphys;;(F. Willemse, 1980)
+Tettigoniidae;Platycleis (Parnassiana) fusca Brunner von Wattenwyl, 1882;Platycleis;Parnassiana;fusca;;Brunner von Wattenwyl, 1882
+Tettigoniidae;Platycleis (Parnassiana) gionica (La Greca & Messina, 1976);Platycleis;Parnassiana;gionica;;(La Greca & Messina, 1976)
+Tettigoniidae;Platycleis (Parnassiana) menalon (F. Willemse, 1975);Platycleis;Parnassiana;menalon;;(F. Willemse, 1975)
+Tettigoniidae;Platycleis (Parnassiana) nigromarginata L. Willemse & F. Willemse, 1987;Platycleis;Parnassiana;nigromarginata;;L. Willemse & F. Willemse, 1987
+Tettigoniidae;Platycleis (Parnassiana) panaetolikon (F. Willemse, 1980);Platycleis;Parnassiana;panaetolikon;;(F. Willemse, 1980)
+Tettigoniidae;Platycleis (Parnassiana) parnassica (Ramme, 1926);Platycleis;Parnassiana;parnassica;;(Ramme, 1926)
+Tettigoniidae;Platycleis (Parnassiana) parnon (F. Willemse, 1980);Platycleis;Parnassiana;parnon;;(F. Willemse, 1980)
+Tettigoniidae;Platycleis (Parnassiana) tenuis Heller & F. Willemse, 1989;Platycleis;Parnassiana;tenuis;;Heller & F. Willemse, 1989
+Tettigoniidae;Platycleis (Parnassiana) tymphiensis (F. Willemse, 1973);Platycleis;Parnassiana;tymphiensis;;(F. Willemse, 1973)
+Tettigoniidae;Platycleis (Parnassiana) tymphrestos (Zeuner, 1941);Platycleis;Parnassiana;tymphrestos;;(Zeuner, 1941)
+Tettigoniidae;Platycleis (Parnassiana) vicheti (Delmas & Rambur, 1950);Platycleis;Parnassiana;vicheti;;(Delmas & Rambur, 1950)
+Tettigoniidae;Platycleis (Platycleis) affinis Fieber, 1853;Platycleis;Platycleis;affinis;;Fieber, 1853
+Tettigoniidae;Platycleis (Platycleis) albopunctata (Goeze, 1778);Platycleis;Platycleis;albopunctata;;(Goeze, 1778)
+Tettigoniidae;Platycleis (Platycleis) concii Galvagni, 1959;Platycleis;Platycleis;concii;;Galvagni, 1959
+Tettigoniidae;Platycleis (Platycleis) escalerai Bolívar, 1899;Platycleis;Platycleis;escalerai;;Bolívar, 1899
+Tettigoniidae;Platycleis (Platycleis) falx (Fabricius, 1775);Platycleis;Platycleis;falx;;(Fabricius, 1775)
+Tettigoniidae;Platycleis (Platycleis) iberica Zeuner, 1941;Platycleis;Platycleis;iberica;;Zeuner, 1941
+Tettigoniidae;Platycleis (Platycleis) intermedia (Serville, 1839);Platycleis;Platycleis;intermedia;;(Serville, 1839)
+Tettigoniidae;Platycleis (Platycleis) ragusai Ramme, 1927;Platycleis;Platycleis;ragusai;;Ramme, 1927
+Tettigoniidae;Platycleis (Platycleis) romana Ramme, 1927;Platycleis;Platycleis;romana;;Ramme, 1927
+Tettigoniidae;Platycleis (Platycleis) sabulosa Azam, 1901;Platycleis;Platycleis;sabulosa;;Azam, 1901
+Tettigoniidae;Platycleis (Platycleis) waltheri Harz, 1966;Platycleis;Platycleis;waltheri;;Harz, 1966
+Tettigoniidae;Platycleis (Tessellana) incerta Brunner von Wattenwyl, 1882;Platycleis;Tessellana;incerta;;Brunner von Wattenwyl, 1882
+Tettigoniidae;Platycleis (Tessellana) lagrecai (Messina, 1979);Platycleis;Tessellana;lagrecai;;(Messina, 1979)
+Tettigoniidae;Platycleis (Tessellana) nigrosignata (Costa, 1863);Platycleis;Tessellana;nigrosignata;;(Costa, 1863)
+Tettigoniidae;Platycleis (Tessellana) orina Burr, 1899;Platycleis;Tessellana;orina;;Burr, 1899
+Tettigoniidae;Platycleis (Tessellana) sporadarum Werner, 1933;Platycleis;Tessellana;sporadarum;;Werner, 1933
+Tettigoniidae;Platycleis (Tessellana) tessellata (Charpentier, 1825);Platycleis;Tessellana;tessellata;;(Charpentier, 1825)
+Tettigoniidae;Platycleis (Tessellana) veyseli Koçak, 1984;Platycleis;Tessellana;veyseli;;Koçak, 1984
+Tettigoniidae;Psorodonotus fieberi fieberi (Fieber, 1853);Psorodonotus;;fieberi;fieberi;(Fieber, 1853)
+Tettigoniidae;Psorodonotus fieberi illyricus Ebner, 1923;Psorodonotus;;fieberi;illyricus;Ebner, 1923
+Tettigoniidae;Psorodonotus fieberi macedonicus Ramme, 1931;Psorodonotus;;fieberi;macedonicus;Ramme, 1931
+Tettigoniidae;Psorodonotus fieberi (Fieber, 1853);Psorodonotus;;fieberi;;(Fieber, 1853)
+Tettigoniidae;Pterolepis agiostratica (Werner, 1874);Pterolepis;;agiostratica;;(Werner, 1874)
+Tettigoniidae;Pterolepis anatolica (Werner, 1933);Pterolepis;;anatolica;;(Werner, 1933)
+Tettigoniidae;Pterolepis annulata (Fieber, 1853);Pterolepis;;annulata;;(Fieber, 1853)
+Tettigoniidae;Pterolepis baccettii (Galvagni, 1976);Pterolepis;;baccettii;;(Galvagni, 1976)
+Tettigoniidae;Pterolepis berberica dubronyi (Baccetti, Massa & Canestrelli, 1995);Pterolepis;;berberica;dubronyi;(Baccetti, Massa & Canestrelli, 1995)
+Tettigoniidae;Pterolepis berberica (Galvagni, 1989);Pterolepis;;berberica;;(Galvagni, 1989)
+Tettigoniidae;Pterolepis bonfilsi (Galvagni, 1976);Pterolepis;;bonfilsi;;(Galvagni, 1976)
+Tettigoniidae;Pterolepis bucchicii (Herman, 1874);Pterolepis;;bucchicii;;(Herman, 1874)
+Tettigoniidae;Pterolepis cordubensis Bolívar, 1900;Pterolepis;;cordubensis;;Bolívar, 1900
+Tettigoniidae;Pterolepis corsicana (Bonfils, 1960);Pterolepis;;corsicana;;(Bonfils, 1960)
+Tettigoniidae;Pterolepis derrai (Harz, 1983);Pterolepis;;derrai;;(Harz, 1983)
+Tettigoniidae;Pterolepis distinguenda (Werner, 1934);Pterolepis;;distinguenda;;(Werner, 1934)
+Tettigoniidae;Pterolepis edentata (F. Willemse, 1982);Pterolepis;;edentata;;(F. Willemse, 1982)
+Tettigoniidae;Pterolepis elymica Galvagni & Massa, 1980;Pterolepis;;elymica;;Galvagni & Massa, 1980
+Tettigoniidae;Pterolepis ferdinandi (L. Willemse & Tilmans, 1987);Pterolepis;;ferdinandi;;(L. Willemse & Tilmans, 1987)
+Tettigoniidae;Pterolepis germanica (Herrich-Schäffer, 1840);Pterolepis;;germanica;;(Herrich-Schäffer, 1840)
+Tettigoniidae;Pterolepis graeca (Uvarov, 1942);Pterolepis;;graeca;;(Uvarov, 1942)
+Tettigoniidae;Pterolepis grisea (Baccetti, 1991);Pterolepis;;grisea;;(Baccetti, 1991)
+Tettigoniidae;Pterolepis insularis (Ramme, 1928);Pterolepis;;insularis;;(Ramme, 1928)
+Tettigoniidae;Pterolepis japygia (La Greca, 1959);Pterolepis;;japygia;;(La Greca, 1959)
+Tettigoniidae;Pterolepis lusitanica (Bolívar, 1900);Pterolepis;;lusitanica;;(Bolívar, 1900)
+Tettigoniidae;Pterolepis minerva (Baccetti, 1991);Pterolepis;;minerva;;(Baccetti, 1991)
+Tettigoniidae;Pterolepis neglecta Costa, 1863;Pterolepis;;neglecta;;Costa, 1863
+Tettigoniidae;Pterolepis pedata Costa, 1882;Pterolepis;;pedata;;Costa, 1882
+Tettigoniidae;Pterolepis poneli (Harz & Voisin, 1987);Pterolepis;;poneli;;(Harz & Voisin, 1987)
+Tettigoniidae;Pterolepis silvestrii (Ramme, 1936);Pterolepis;;silvestrii;;(Ramme, 1936)
+Tettigoniidae;Pterolepis spoliata grallata (Pantel, 1886);Pterolepis;;spoliata;grallata;(Pantel, 1886)
+Tettigoniidae;Pterolepis spoliata kaltenbachi Galvagni, 1981;Pterolepis;;spoliata;kaltenbachi;Galvagni, 1981
+Tettigoniidae;Pterolepis spoliata llorente Galvagni, 1981;Pterolepis;;spoliata;llorente;Galvagni, 1981
+Tettigoniidae;Pterolepis spoliata minor Bolivar, 1899;Pterolepis;;spoliata;minor;Bolivar, 1899
+Tettigoniidae;Pterolepis spoliata nadigi Galvagni, 1981;Pterolepis;;spoliata;nadigi;Galvagni, 1981
+Tettigoniidae;Pterolepis spoliata nevadensis Galvagni, 1981;Pterolepis;;spoliata;nevadensis;Galvagni, 1981
+Tettigoniidae;Pterolepis spoliata pascuali Galvagni, 1981;Pterolepis;;spoliata;pascuali;Galvagni, 1981
+Tettigoniidae;Pterolepis spoliata raggei Galvagni, 1981;Pterolepis;;spoliata;raggei;Galvagni, 1981
+Tettigoniidae;Pterolepis spoliata spoliata Rambur, 1839;Pterolepis;;spoliata;spoliata;Rambur, 1839
+Tettigoniidae;Pterolepis spoliata Rambur, 1839;Pterolepis;;spoliata;;Rambur, 1839
+Tettigoniidae;Pterolepis thyrrhenica (La Greca, 1952);Pterolepis;;thyrrhenica;;(La Greca, 1952)
+Tettigoniidae;Pterolepis trilobata (La Greca & Messina, 1974);Pterolepis;;trilobata;;(La Greca & Messina, 1974)
+Tettigoniidae;Pterolepis uvarovi (Ramme, 1936);Pterolepis;;uvarovi;;(Ramme, 1936)
+Tettigoniidae;Pterolepis werneri (F. Willemse, 1982);Pterolepis;;werneri;;(F. Willemse, 1982)
+Tettigoniidae;Saga campbelli Uvarov, 1921;Saga;;campbelli;;Uvarov, 1921
+Tettigoniidae;Saga hellenica Kaltenbach, 1967;Saga;;hellenica;;Kaltenbach, 1967
+Tettigoniidae;Saga natoliae Serville, 1839;Saga;;natoliae;;Serville, 1839
+Tettigoniidae;Saga pedo (Pallas, 1771);Saga;;pedo;;(Pallas, 1771)
+Tettigoniidae;Saga rammei Kaltenbach, 1965;Saga;;rammei;;Kaltenbach, 1965
+Tettigoniidae;Saga rhodiensis Salfi, 1929;Saga;;rhodiensis;;Salfi, 1929
+Tettigoniidae;Sepiana sepium (Yersin, 1854);Sepiana;;sepium;;(Yersin, 1854)
+Tettigoniidae;Tettigonia cantans (Fuessli, 1775);Tettigonia;;cantans;;(Fuessli, 1775)
+Tettigoniidae;Tettigonia caudata (Charpentier, 1845);Tettigonia;;caudata;;(Charpentier, 1845)
+Tettigoniidae;Tettigonia hispanica (Bolívar, 1893);Tettigonia;;hispanica;;(Bolívar, 1893)
+Tettigoniidae;Tettigonia longispina Ingrisch, 1983;Tettigonia;;longispina;;Ingrisch, 1983
+Tettigoniidae;Tettigonia silana Capra, 1936;Tettigonia;;silana;;Capra, 1936
+Tettigoniidae;Tettigonia viridissima (Linnaeus, 1758);Tettigonia;;viridissima;;(Linnaeus, 1758)
+Tettigoniidae;Thyreonotus bidens (Bolívar, 1887);Thyreonotus;;bidens;;(Bolívar, 1887)
+Tettigoniidae;Thyreonotus corsicus (Rambur, 1839);Thyreonotus;;corsicus;;(Rambur, 1839)
+Tettigoniidae;Yersinella beybienkoi La Greca, 1974;Yersinella;;beybienkoi;;La Greca, 1974
+Tettigoniidae;Yersinella raymondii (Yersin, 1860);Yersinella;;raymondii;;(Yersin, 1860)
+Tridactylidae;Asiotridactylus fasciatus (Guerin-Meneville, 1844);Asiotridactylus;;fasciatus;;(Guerin-Meneville, 1844)
+Tridactylidae;Bruntridactylus irremipes (Uvarov, 1934);Bruntridactylus;;irremipes;;(Uvarov, 1934)
+Tridactylidae;Bruntridactylus tartarus (Saussure, 1874);Bruntridactylus;;tartarus;;(Saussure, 1874)
+Tridactylidae;Xya iberica Günther, 1990;Xya;;iberica;;Günther, 1990
+Tridactylidae;Xya pfaendleri (Harz, 1970);Xya;;pfaendleri;;(Harz, 1970)
+Tridactylidae;Xya variegata Latreille, 1809;Xya;;variegata;;Latreille, 1809
