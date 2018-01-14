@@ -38,9 +38,9 @@ def get_authyr(values):
             authors.append(value.strip())
     return authors, year
 
-def get_coauthors(author_set, author):
+def get_coauthors(author_list, author):
     coauthors=set()
-    for authors in author_set:
+    for authors in author_list:
         if authors!=author:
             coauthors.add(authors)
     return coauthors
@@ -169,10 +169,9 @@ def generate_scientific_names(data_set):
         names.append(name.strip())
     return names
 
-def construct_authyr(author_set, year):
-    auth_list=list(author_set)
+def construct_authyr(auth_list, year):
     authyr=auth_list[0]
-    n=len(author_set)
+    n=len(auth_list)
     for author in auth_list[1:n-1]:
         authyr+=', '+author
     if n>1:
