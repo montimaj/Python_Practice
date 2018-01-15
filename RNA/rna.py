@@ -1,10 +1,18 @@
 import random
+from collections import defaultdict
 
 def num_nucleotides(rna_string):
     nucleotide_list=('A','G','C','U')
     for n in nucleotide_list:
         print('Count('+n+')=', rna_string.count(n))
     return len(rna_string)
+
+def specific_codon_count(rna_string, specific_codon):
+    codon_count=defaultdict(lambda:0)
+    codons=get_all_codons(rna_string)
+    for codon in codons:
+        codon_count[codon]+=1
+    return codon_count[specific_codon]
 
 def num_codons(rna_string):
     return int(len(rna_string)/3)
@@ -14,88 +22,38 @@ def get_all_codons(rna_string):
     for i in range(num_codons(rna_string)):
         offset=3*i
         codons.append(rna_string[offset:offset+3])
-        #print('Codon #'+str(i+1), codons[i])
     return codons
 
 def get_codon(rna_string, n):
     offset=3*(n-1)
-    print('Codon #'+str(n), rna_string[offset:offset+3])
+    return rna_string[offset:offset+3]
 
 def first_start_codon(rna_string):
-    return rna_string.find('AUG')
-
-def start_codons(rna_string):
-    start_list = []
-    offset = 0
-    while True:
-        pos = rna_string.find('AUG')
-        if pos == -1:
-            return start_list
-        start_list.append(pos+offset)
-        rna_string=rna_string[pos+3:]
-        offset+=pos+3
-
-def stop_codons(rna_string, start):
-    stop_codons = AMINO_ACIDS['STOP']
-    stop_list = []
-    for codon in stop_codons:
-        rna_copy=rna_string[:]
-        offset=0
-        while rna_copy:
-            pos = rna_copy.find(codon)
-            if pos==-1:
-                break
-            if is_proper_stop_codon(pos, start):
-                stop_list.append(pos + offset)
-            rna_copy=rna_copy[pos+3:]
-            offset+=pos+3
-    return stop_list
+    codons = get_all_codons(rna_string)
+    starts=get_all_start_codons(codons)
+    if starts:
+        return starts[0]
+    return 'Not found'
 
 def first_stop_codon(rna_string):
-    stop_codons=AMINO_ACIDS['STOP']
-    stop_idx=[]
-    for codon in stop_codons:
-        stop=rna_string.find(codon)
-        if stop!=-1:
-            stop_idx.append(stop)
-    if stop_idx:
-        return min(stop_idx)
-    return -2
+    codons=get_all_codons(rna_string)
+    stops=get_all_stop_codons(codons)
+    if stops:
+        return (codons[stops[0]], stops[0])
+    return 'Not found'
 
-def is_proper_stop_codon(stop, start):
-    for codon in start:
-        if (stop-codon) > 2 and (stop+3-codon)%3==0:
-            return True
-    return False
+def first_stop_after_start(rna_string):
+    codons=get_all_codons(rna_string)
+    starts=get_all_start_codons(codons)
+    stops = get_all_stop_codons(codons)
+    if starts and stops:
+        for stop in stops:
+            if stop > starts[0]:
+                return (codons[stop],stop)
+    return 'Not found'
 
 def is_valid_start(start,stop):
-    return start<stop and (stop+3-start)%3==0
-
-def remove_invalid_starts(start, stop):
-    invalid_starts={}
-    for codon1 in start:
-        invalid_starts[codon1]=0
-        for codon2 in stop:
-            if not(is_valid_start(codon1,codon2)):
-                invalid_starts[codon1]+=1                
-            else:                
-                invalid_starts[codon1]-=1   
-    for (codon,invalid) in invalid_starts.items():
-        if invalid>0:
-            start.remove(codon)
-
-def stop_codon_after_start(rna_string, start_idx):
-    rna_copy=rna_string[:]
-    l=0
-    while rna_copy:
-        stop_idx = first_stop_codon(rna_copy)
-        if  is_proper_stop_codon(stop_idx,start_idx):
-            print(rna_copy[stop_idx:stop_idx+3])
-            print(rna_string[stop_idx+l+start_idx:stop_idx+l+start_idx+3])
-            return stop_idx
-        rna_copy=rna_copy[start_idx+3:]
-        l+=3
-    return -2
+    return start<stop
         
 def random_seq(n):
     result = ''
@@ -104,28 +62,41 @@ def random_seq(n):
         n = n - 1
     return result
 
+def get_all_start_codons(codons):
+    starts=[]
+    for index,codon in enumerate(codons):
+        if codon=='AUG':
+            starts.append(index)
+    return starts
+
+def get_all_stop_codons(codons):
+    stops=[]
+    for index, codon in enumerate(codons):
+        if codon in AMINO_ACIDS['STOP']:
+            stops.append(index)
+    return stops
+
 def rna_split(rna_string):
-    start = start_codons(rna_string[:])
-    stop = stop_codons(rna_string[:], start)
-    #print('Inital start, stop=',start, stop)
-    if start and stop:
-        start.sort()
-        stop.sort()
-        remove_invalid_starts(start,stop)
-        #print('Corrected start, stop=',start, stop)
-        rna_slices=[]
-        for start_idx in start:
-            for stop_idx in stop:
-                if is_valid_start(start_idx,stop_idx):
-                    rna_slices.append(rna_string[start_idx:stop_idx+3])
-        return rna_slices
-    
-def codon_to_amino_acid(rna_slices):    
+    codons=get_all_codons(rna_string)
+    start=get_all_start_codons(codons)
+    stop=get_all_stop_codons(codons)
+    start.sort()
+    stop.sort()
+    #print('Start/Stop=', start, stop)
+    rna_slices = []
+    for start_idx in start:
+        for stop_idx in stop:
+            if is_valid_start(start_idx,stop_idx):
+                slice = ''.join(codons[start_idx:stop_idx+1])
+                rna_slices.append(slice)
+                break
+    return rna_slices
+
+def codon_to_amino_acid(rna_slices):
     amino_dict={}
     for rna_slice in rna_slices:
         codons=get_all_codons(rna_slice)
         amino_acids=[]
-        #print(codons, len(codons))
         for codon in codons:
             for amino_acid, codon_tuple in AMINO_ACIDS.items():
                 if codon in codon_tuple:
@@ -166,10 +137,10 @@ AMINO_ACIDS={   'Phenylalanine': ('UUU', 'UUC'),
             }
 
 def rna_seq_length(lower, upper):
-    n=random.randint(lower, upper)
-    if n%3==0:
-        return n
-    return rna_seq_length(lower, upper)
+    while True:
+        n = random.randint(lower, upper)
+        if n%3==0:
+            return n
 
 #rna='AUGGCUACGGCAGCGAAACUGCCCGAGCCGGAGAGAAGACCUAUUCCGUGCCCCCUGAAAACAGUGACACAUGAGCCUGGGUAUUAAACCAGUCAAGGG'
 #rna='GGUAAUGAGGCCUAAGGAUCCGCCGAGGAAGUCUUCGGGACAGCGGAGUUCGUCAGCCCGUCCAAAGGAGAAGCCCAGCCUACUCCGCUCUUCGGGUUU'
@@ -180,9 +151,25 @@ def rna_seq_length(lower, upper):
 #rna='GCAUGGAGUUACCGGAUUUUAAGGAGAUCUCUCAUUAGCCUCCGCAUCCCCAACCGGUGCCGCCGAUGCCAACCUGUAGUGAUUUACACCCCGCCUAGU'
 #rna='AAUGGGGUUAUAGUAAUUUUUCCCUGAUGAAUCCGAUGCAGAUCCCGCGCCUAAACGUCGGAGAUUGUACGUCUAACACCUAGAAGGAAGUAUGGUGUG'
 #rna='GUCAGUCGGCCUUUUUGGUAUGCGCCGCGUUACCGCGCAGCGAACUUUCGAUCAGCGAGGCUAGCCUACGAAGUUUAAACCCCGUACGCCUCAAAGCGU'
+#rna='GCUCUGUUUCCCUUACAAUUGAUUUUUUAUAGAAAUACCUGCAGUGUGACCCGCAGCUCACUGAAGAGCGGAUGAGGGUACCGAUGACACAAAUGCGCUACCGUCUCGUUCGCAGUAUAAAAGGUAUAAGAAUAUUGUCACCUCGGAUGCACCCCCAGAGUGUGACAGACUCGUAGC'
+#rna='AUGGUCUCGUAGCGCCAAUGAAGAAAAGUAGCAAGGACCAGGUUUGGGUCGCCUUAUCACGGCUACGAACCGAUGGUGUUAGUUUAGUUGUACUCUCAACUGCCAAUUCCGUGUGUGCCUGCCGCAGUACCCCUGCAAUCACUAAUUUUCGGUUAGGGGAGGAGGCAGUGGUGGUGACAACGCGGUAUUGGGUUC'
+#rna='GCAGUAAGCACAAUCUACACAAACUUGCUUGUAGUUGAGCCCAAUUACGGAAUCUCAUGAGGCUCCCAAAGUAAGAUAUUCACACCGGAAGGCUUCCGGGUG'
+#rna='CUUCGGAUGAAGCUGUGGGCAAGUUGGGAUGAAUCGUGAUGGGUC'
+#rna='GCGGAUCUUCUCACUCCGCACGGGUUAUUACCCUAGUAUGAUUAGCCCGGCCACAUGGAACUUUAUAUCGGUUGUACCACGGGCUAGUACACAUACGGGUUUUGCCGCGGAUUGUAAUGGAUCGAAGCUACUGCAACUCCUAUCCAAAGAUCUAUGUGGGGAGCCUGUGCGGAGGCCGAUCAUGCGUGGGUUCAC'
+#rna='UCAUCACCCUAUAUGACAGCUGACAAAUAAUAUUCGGGCGACCGUAACGGCCUCCGUUUUUAGGUUGCGAGUAUAUUAUAUAAUACCUAAGGAAAGCGGUAUAGGCCGGGCCCCAUGCUCGAGCGAAUGCUCGGCUCUUAUAGAAUUCUACGAACCACUGGAAUCAUGUUCCAAGGUAUCCAGUGUUCUAUAGACUAG'
+#rna='UUGUAGGACUCGUUACGCAGGGGCGAAUGGCCAUAGGGCAGUUGAGGGCGGGCGAGAUGCUCCGGACGUUGGCCGUACUUGAAUGAUGUAAAAGGAAACGGUUGAUAAAUAGUCCGGAGGGCCGCAUAGCUUUGCGUGCUGGAGGAGUGGCCGCGGGUCCAGCUUUCGGCUCAGUAAUUCGAAAAGUAAAGCCGUAACAGUAUCGCGCCCUCUGAAAGGUAGGCGUCGGUAGAACGACAAUCGCGGAGGCUGAUUCCACUAAUAUCCCUCCGGUGCUCCGUACCCAGCCAACCCUCCGAUGACCUUGGUCGUGACUACGUCGUCGUUACACCCGUUGUGACAAAACUUGUCAUGGUCCAACUUUAAUAUUCCUUGGGCGCUGGAAAAUCAACCCGUUCACAGCUACGGCAUUUCAUCUGAUAAGGUCCCCAAAGAGGAAACAGCUUGCGCCAACGGUCGUAAGAGCAAUAGGGUCGUCUCACUCCAACAGUUUAUAAGCCAAAGCAACGCGUAAGUUUUUUAUGUGACGACACCUUCCUCCCGCAGCUGUUGCUCCGCCGCGGACAUCGGGACGGACUUCGCUCGGGGAAAACAACUCGUUUAACAGGGCCUUAGCCCCUAUAACUGGAGCUGUUCGACAGGGUAUGGAUUAUUUUUCGAAAUACGUCCCUCUCAACGGGGCGACUUGAACGUCCAGCCUGUUCAUCGGGAAGAUUUACGGUGGAAGGUAUGACUCCACACGCGACGCAUCGUCGGCCAUAGUAAUAAACUACUCAGACUACAAAUAGAUAUGGUCUUGCGACCCAGUAUGCCACUUUUCUGAAUUUGAUUAGAUAACUUUAUCCUACGGCAGCGCGGCAAUUCGACAGCAUGGGUAUGGAAUCAUUCGUAAACAGAAGUACAUGGAUGGCUAAGACUCAGGGCCUGUGUAACUCCAAAACAUGGUGCUCGCUGUAAAUUAGCUUACUUACCACACUUUUGACUCCAUUACUCCACUUUUUUUUUUGUUCCUAUAGCUGUGUGGCGACUCGUGGCGCGCAAACGGUUACUGGCGUGACAGGAACGAAACCGGGCAUGCAUAGCCUUCAAUCACAACCAGCCCAGUCCCAGUUCUCUUUC'
+
 rna_length=rna_seq_length(99,1e+5)
 rna=random_seq(rna_length)
-print('RNA[Len='+str(rna_length)+']=',rna)
+print('RNA[Len='+str(rna_length)+']=',rna,'\n')
+print('Num nucleotides:', num_nucleotides(rna))
+n=num_codons(rna)
+print('\nNum codons=', n)
+n=random.randint(0, n)
+print('Codon #'+str(n)+'=', get_codon(rna, n))
+print('\nFirst start codon index=', first_start_codon(rna))
+print('First stop codon index=', first_stop_codon(rna))
+print('First stop codon after first start=', first_stop_after_start(rna),'\n')
 rna_slices=rna_split(rna)
 if rna_slices:
     amino_dict=codon_to_amino_acid(rna_slices)
