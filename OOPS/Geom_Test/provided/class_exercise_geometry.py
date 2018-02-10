@@ -1,5 +1,5 @@
 try:
-    from pylab import *
+    import matplotlib.pyplot as plt
 except ImportError:
     print('Could not import the PyLab module')
 
@@ -23,11 +23,12 @@ class Point:
         return None
 
     def plot(self, name=None):
-        plot([self.x], [self.y], 'o')
+        plt.plot([self.x], [self.y], 'o')
         if name:
-            text(self.x, self.y, name)
+            plt.title(str(self.x) + str(self.y) + name)
         else:
-            text(self.x, self.y, self.__str__())
+            plt.title(str(self.x) + str(self.y) + self.__str__())
+        plt.show()
 
 class Rectangle:
     width = 0
@@ -95,11 +96,11 @@ class Rectangle:
         x.append(self.left())
         y.append(self.bottom())
         
-        plot(x, y)
+        plt.plot(x, y)
         if name:
-            text((self.right()+self.left())/2,
+            plt.title((self.right()+self.left())/2,
                  (self.top()+self.bottom())/2, name)
         else:
-            text((self.right()+self.left())/2,
+            plt.title((self.right()+self.left())/2,
                  (self.top()+self.bottom())/2, self.__str__())
 

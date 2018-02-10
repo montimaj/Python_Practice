@@ -36,6 +36,7 @@ def minimum_dist(distance_dict):
         if (k[0],k[1]) not in flag.keys() and (k[1],k[0]) not in flag.keys() and v==min_dist:
             flag[k]=True
             minimum.append(((k[0].x,k[0].y),(k[1].x, k[1].y),v))
+            k[0].plot()
     return minimum
 
 def to_values(points):
