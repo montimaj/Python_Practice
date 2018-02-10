@@ -1,12 +1,5 @@
 from collections import defaultdict
-
-'''
-def make_utf8(s):
-    text=''
-    for c in s:
-       text+= c.decode('utf-8','ignore').encode("utf-8") #python2
-    return s
-'''
+import matplotlib.pyplot as plt
 
 def read_file(filename):
     read_data=open(filename, 'r')
@@ -193,7 +186,7 @@ def merge_fields(family_dict):
     return merged_data
 
 def write_to_file(data_list):
-    fp=open('merged.txt','w')
+    fp=open('Outputs/merged.txt','w')
     for data in data_list:
         fp.write(data+'\n')
     fp.close()
@@ -205,9 +198,26 @@ def latest_species(year_dict):
         species_set.add(data_tuple[:4])
     return recent_year, generate_scientific_names(species_set)
 
+def year_species_count(year_dict):
+    count_species_dict={}
+    for year, data_list in year_dict.items():
+        species_set=set()
+        for data_tuple in data_list:
+            species_set.add(data_tuple[3:5])
+        count_species_dict[year]=len(species_set)
+    return count_species_dict
+
+def show_hist(count_dict):
+    years=list(count_dict.keys())
+    species=list(count_dict.values())
+    plt.bar(years,species)
+    plt.xlabel('Year')
+    plt.ylabel('Num_Species_Discovered')
+    plt.title('Yearwise Species Histogram')
+    plt.show()
+
 contents=read_file('orthoptera.txt')
 ortho_list_dict=generate_dictionary(contents)
-#data_tuple_indices=generate_index(ortho_list_dict)
 
 print('Total=', num_species_subspecies(ortho_list_dict))
 print('\nNum Distinct families=', num_distinct_families(ortho_list_dict))
@@ -233,3 +243,8 @@ recent_year, species=latest_species(ortho_list_dict[4])
 print('\nRecently discovered species('+str(recent_year)+'):', species)
 
 write_to_file(merge_fields(ortho_list_dict[0]))
+
+yr_spec=year_species_count(ortho_list_dict[4])
+print('Lowest species count in year: ', min_max_kv(yr_spec)[0])
+print('Highest species count in year: ', min_max_kv(yr_spec)[1])
+show_hist(yr_spec)
