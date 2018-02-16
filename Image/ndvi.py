@@ -45,9 +45,7 @@ def draw_lines(img):
 
 def scale_ndvi(ndvi, bit=8):
     scale_factor=2**(bit - 1)
-    if ndvi<=0:
-        return int(round(np.abs(ndvi*scale_factor)))
-    return round(ndvi*scale_factor+scale_factor-1)
+    return round((ndvi+1)*scale_factor/2)
 
 def generate_ndvi_image(rgbimg, nirimg):
     rimg=rgbimg.split()[0]
