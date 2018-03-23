@@ -1,0 +1,59 @@
+IMAGE = D:/M8/Fusion_prac_data/Fused_New/ehlrsfused.img
+
+IMAGE QUALITY Band # 1 = 0.0076910534080830125
+IMAGE QUALITY Band # 2 = 0.0034105660731307197
+IMAGE QUALITY Band # 3 = 0.0016625314008518533
+
+RMSE Band # 1 = 181.19128820548653
+RMSE Band # 2 = 181.13571577377465
+RMSE Band # 3 = 180.8743914013732
+
+PSNR Band # 1 = 51.16671982165019
+PSNR Band # 2 = 51.16938424360744
+PSNR Band # 3 = 51.181924418634026
+
+Relative mean = 2.357060413145303
+
+RELATIVE MEAN Band # 1 = 1.435251394619063
+RELATIVE MEAN Band # 2 = 1.592890725177036
+RELATIVE MEAN Band # 3 = 0.9790231678084634
+
+ENTROPY Band # 1 = 23167110.483136162
+ENTROPY Band # 2 = 18214522.114593863
+ENTROPY Band # 3 = 23462868.672925368
+
+Corrcoef between D:/M8/Fusion_prac_data/optical_fusion_data/xs_subiko.img and D:/M8/Fusion_prac_data/Fused_New/ehlrsfused.img
+ Band # 1 = 0.01837539468863563
+ Band # 2 = 0.012762283155347729
+ Band # 3 = 0.002765547846055639
+
+Corrcoef between D:/M8/Fusion_prac_data/Fused_New/ehlrsfused.img and D:/M8/Fusion_prac_data/Fused_New/pcfused.img
+ Band # 1 = 0.6479586351673192
+ Band # 2 = 0.7030606557519427
+ Band # 3 = 0.8063318403673883
+
+Corrcoef between D:/M8/Fusion_prac_data/Fused_New/ehlrsfused.img and D:/M8/Fusion_prac_data/Fused_New/broveyfused.img
+ Band # 1 = 0.6148309505679886
+ Band # 2 = 0.6775830786654272
+ Band # 3 = 0.8184572941687608
+
+Corrcoef between D:/M8/Fusion_prac_data/Fused_New/ehlrsfused.img and D:/M8/Fusion_prac_data/Fused_New/mulfused.img
+ Band # 1 = 0.6263879923311201
+ Band # 2 = 0.7325788726840275
+ Band # 3 = 0.6886821767845547
+
+Corrcoef between D:/M8/Fusion_prac_data/Fused_New/ehlrsfused.img and D:/M8/Fusion_prac_data/fused/hpffused.img
+ Band # 1 = 0.7423535749449132
+ Band # 2 = 0.781707214606282
+ Band # 3 = 0.7457384185003065
+
+Corrcoef between D:/M8/Fusion_prac_data/Fused_New/ehlrsfused.img and D:/M8/Fusion_prac_data/fused/ihsfused.img
+ Band # 1 = -0.03681768990155388
+ Band # 2 = 0.7963201011340305
+ Band # 3 = -0.07974904040720143
+
+Corrcoef between D:/M8/Fusion_prac_data/Fused_New/ehlrsfused.img and D:/M8/Fusion_prac_data/fused/waveletfused.img
+ Band # 1 = 0.5857548262149044
+ Band # 2 = 0.6478608125894872
+ Band # 3 = 0.7033481065748844
+
