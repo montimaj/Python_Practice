@@ -1,4 +1,4 @@
-IMAGE = D:/M8/Fusion_prac_data/fused/hpffused.img
+IMAGE = E:/Fusion/hpffused.img
 
 IMAGE QUALITY Band # 1 = 0.018056842053485286
 IMAGE QUALITY Band # 2 = 0.010899402959969395
@@ -22,38 +22,38 @@ ENTROPY Band # 1 = 30308775.91740523
 ENTROPY Band # 2 = 45464288.545326486
 ENTROPY Band # 3 = 45135833.43750371
 
-Corrcoef between D:/M8/Fusion_prac_data/optical_fusion_data/xs_subiko.img and D:/M8/Fusion_prac_data/fused/hpffused.img
- Band # 1 = 0.021898318239646827
- Band # 2 = 0.0126602553739328
- Band # 3 = 0.002655892974021854
+Corrcoef between D:/M8/Fusion_prac_data/optical_fusion_data/xs_subiko.img and E:/Fusion/hpffused.img
+ Band # 1 = 0.9588121649694386
+ Band # 2 = 0.9362339519404629
+ Band # 3 = 0.9427250182836591
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/hpffused.img and D:/M8/Fusion_prac_data/Fused_New/pcfused.img
+Corrcoef between E:/Fusion/hpffused.img and E:/Fusion/pcfused.img
  Band # 1 = 0.6518732956000636
- Band # 2 = 0.6344332725659844
- Band # 3 = 0.6565649650076674
+ Band # 2 = 0.6344346054770278
+ Band # 3 = 0.6565651058103263
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/hpffused.img and D:/M8/Fusion_prac_data/Fused_New/broveyfused.img
- Band # 1 = 0.6276956758764988
- Band # 2 = 0.6158409839642359
- Band # 3 = 0.6595401233211131
+Corrcoef between E:/Fusion/hpffused.img and E:/Fusion/broveyfused.img
+ Band # 1 = 0.6342042330124327
+ Band # 2 = 0.6763388799854941
+ Band # 3 = 0.6264004467613505
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/hpffused.img and D:/M8/Fusion_prac_data/Fused_New/mulfused.img
+Corrcoef between E:/Fusion/hpffused.img and E:/Fusion/mulfused.img
  Band # 1 = 0.6806588038956771
  Band # 2 = 0.69549664267435
  Band # 3 = 0.5879227556210807
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/hpffused.img and D:/M8/Fusion_prac_data/fused/ihsfused.img
- Band # 1 = 0.07528774152224997
- Band # 2 = 0.7082259376319053
- Band # 3 = -0.06511611440618392
+Corrcoef between E:/Fusion/hpffused.img and E:/Fusion/ihsfused.img
+ Band # 1 = -0.16531489558216014
+ Band # 2 = 0.6669212209554974
+ Band # 3 = 0.09054806564538753
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/hpffused.img and D:/M8/Fusion_prac_data/Fused_New/ehlrsfused.img
+Corrcoef between E:/Fusion/hpffused.img and E:/Fusion/ehlersfused.img
  Band # 1 = 0.742353574944913
  Band # 2 = 0.781707214606282
  Band # 3 = 0.7457384185003066
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/hpffused.img and D:/M8/Fusion_prac_data/fused/waveletfused.img
- Band # 1 = 0.6258031525889722
- Band # 2 = 0.6083202047520462
- Band # 3 = 0.7599309771378583
+Corrcoef between E:/Fusion/hpffused.img and E:/Fusion/waveletfused.img
+ Band # 1 = 0.6257991069267409
+ Band # 2 = 0.6083208288953588
+ Band # 3 = 0.759928520857662
 

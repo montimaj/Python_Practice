@@ -1,59 +1,59 @@
-IMAGE = D:/M8/Fusion_prac_data/fused/waveletfused.img
+IMAGE = E:/Fusion/waveletfused.img
 
-IMAGE QUALITY Band # 1 = 0.016864858726651714
-IMAGE QUALITY Band # 2 = 0.009342432810228615
-IMAGE QUALITY Band # 3 = 0.004283799890084573
+IMAGE QUALITY Band # 1 = 0.016856264010111973
+IMAGE QUALITY Band # 2 = 0.009342838683289225
+IMAGE QUALITY Band # 3 = 0.004280043219411542
 
-RMSE Band # 1 = 111.69983
-RMSE Band # 2 = 154.20752
-RMSE Band # 3 = 199.95456
+RMSE Band # 1 = 97.25251763647582
+RMSE Band # 2 = 116.75662692064424
+RMSE Band # 3 = 139.93226688657313
 
-PSNR Band # 1 = 55.36841590221486
-PSNR Band # 2 = 52.567355045713676
-PSNR Band # 3 = 50.31083984963785
+PSNR Band # 1 = 56.57144901540643
+PSNR Band # 2 = 54.98383527925465
+PSNR Band # 3 = 53.41110868110811
 
-Relative mean = 0.12922591608780185
+Relative mean = 0.12935340364219938
 
-RELATIVE MEAN Band # 1 = 0.018172347019637537
-RELATIVE MEAN Band # 2 = 0.08671340703550498
-RELATIVE MEAN Band # 3 = 0.09407384457342174
+RELATIVE MEAN Band # 1 = 0.019408864556781053
+RELATIVE MEAN Band # 2 = 0.08562197870656128
+RELATIVE MEAN Band # 3 = 0.09499724086946659
 
-ENTROPY Band # 1 = 50422385744.051506
-ENTROPY Band # 2 = 60355066679.10957
-ENTROPY Band # 3 = 67395644423.047775
+ENTROPY Band # 1 = 14327796.21176578
+ENTROPY Band # 2 = 26323772.786702827
+ENTROPY Band # 3 = 18477330.709088832
 
-Corrcoef between D:/M8/Fusion_prac_data/optical_fusion_data/xs_subiko.img and D:/M8/Fusion_prac_data/fused/waveletfused.img
- Band # 1 = 0.01928857904879668
- Band # 2 = 0.010592681269763175
- Band # 3 = 0.004334610849810458
+Corrcoef between D:/M8/Fusion_prac_data/optical_fusion_data/xs_subiko.img and E:/Fusion/waveletfused.img
+ Band # 1 = 0.9588686352323584
+ Band # 2 = 0.9383776811495549
+ Band # 3 = 0.9438388238858085
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/waveletfused.img and D:/M8/Fusion_prac_data/Fused_New/pcfused.img
- Band # 1 = 0.6258197252210226
- Band # 2 = 0.6170741600718053
- Band # 3 = 0.6949711941007184
+Corrcoef between E:/Fusion/waveletfused.img and E:/Fusion/pcfused.img
+ Band # 1 = 0.6258152434665892
+ Band # 2 = 0.617076384276342
+ Band # 3 = 0.6949694805407065
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/waveletfused.img and D:/M8/Fusion_prac_data/Fused_New/broveyfused.img
- Band # 1 = 0.6164447997570952
- Band # 2 = 0.609809679769115
- Band # 3 = 0.6987144900857236
+Corrcoef between E:/Fusion/waveletfused.img and E:/Fusion/broveyfused.img
+ Band # 1 = 0.6060223120278889
+ Band # 2 = 0.6698036827535738
+ Band # 3 = 0.6540820640026915
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/waveletfused.img and D:/M8/Fusion_prac_data/Fused_New/mulfused.img
- Band # 1 = 0.6773015084938975
- Band # 2 = 0.7075474120278575
- Band # 3 = 0.5915635862693506
+Corrcoef between E:/Fusion/waveletfused.img and E:/Fusion/mulfused.img
+ Band # 1 = 0.6772974875274161
+ Band # 2 = 0.7075458702115525
+ Band # 3 = 0.591561867428532
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/waveletfused.img and D:/M8/Fusion_prac_data/fused/hpffused.img
- Band # 1 = 0.6258031525889722
- Band # 2 = 0.6083202047520461
- Band # 3 = 0.7599309771378583
+Corrcoef between E:/Fusion/waveletfused.img and E:/Fusion/hpffused.img
+ Band # 1 = 0.625799106926741
+ Band # 2 = 0.6083208288953588
+ Band # 3 = 0.759928520857662
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/waveletfused.img and D:/M8/Fusion_prac_data/fused/ihsfused.img
- Band # 1 = 0.03538864203530347
- Band # 2 = 0.7135462865459573
- Band # 3 = -0.15325371056511308
+Corrcoef between E:/Fusion/waveletfused.img and E:/Fusion/ihsfused.img
+ Band # 1 = -0.18917556981974584
+ Band # 2 = 0.6566758980465244
+ Band # 3 = 0.02053149776781942
 
-Corrcoef between D:/M8/Fusion_prac_data/fused/waveletfused.img and D:/M8/Fusion_prac_data/Fused_New/ehlrsfused.img
- Band # 1 = 0.5857548262149043
- Band # 2 = 0.6478608125894872
- Band # 3 = 0.7033481065748846
+Corrcoef between E:/Fusion/waveletfused.img and E:/Fusion/ehlersfused.img
+ Band # 1 = 0.5857507742360455
+ Band # 2 = 0.6478609938032079
+ Band # 3 = 0.7033462664137116
 

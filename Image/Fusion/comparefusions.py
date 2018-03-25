@@ -35,6 +35,22 @@ def get_corrcoef(img1, img2):
         corrcoefs.append(np.corrcoef(x, y)[0, 1])
     return corrcoefs
 
+def get_corrcoef_ref(ref, img):
+    corrcoefs = []
+    for band in range(1, img.RasterCount + 1):
+        x = ref.GetRasterBand(band).ReadAsArray()
+        y = img.GetRasterBand(band).ReadAsArray()
+        x, y = resize_img(x, y)
+        num = np.float64(0)
+        for i in range(x.shape[0]):
+            num += np.float64(x[i]) * np.float64(y[i])
+        num *= np.float64(2)
+        denom = np.float64(0)
+        for i in range(x.shape[0]):
+            denom += np.float64(x[i] ** 2) + np.float64(y[i] ** 2)
+        corrcoefs.append(num / denom)
+    return corrcoefs
+
 def get_rmse(ref, img):
     rmse = []
     for band in range(1, ref.RasterCount + 1):
@@ -114,7 +130,7 @@ def do_analysis(multispec, image, itr):
     write_list_to_file(diff.tolist(), fp, "RELATIVE MEAN")
     entropy = get_entropy(image)
     write_list_to_file(entropy, fp, "ENTROPY")
-    corrcoefs = get_corrcoef(multispec, image)
+    corrcoefs = get_corrcoef_ref(multispec, image)
     fp.write("Corrcoef between " + multispec.GetDescription() + " and " + image.GetDescription() + "\n")
     write_list_to_file(corrcoefs, fp)
     for img in images:
@@ -126,13 +142,13 @@ def do_analysis(multispec, image, itr):
     print("ANALYSIS FOR IMAGE #" + str(itr) + " COMPLETE!")
 
 multispec = read_image(r"D:/M8/Fusion_prac_data/optical_fusion_data/xs_subiko.img")
-pcfused = read_image(r"D:/M8/Fusion_prac_data/Fused_New/pcfused.img")
-broveyfused = read_image(r"D:/M8/Fusion_prac_data/Fused_New/broveyfused.img")
-mulfused = read_image(r"D:/M8/Fusion_prac_data/Fused_New/mulfused.img")
-hpffused = read_image(r"D:/M8/Fusion_prac_data/fused/hpffused.img")
-ihsfused = read_image(r"D:/M8/Fusion_prac_data/fused/ihsfused.img")
-ehlrsfused = read_image(r"D:/M8/Fusion_prac_data/Fused_New/ehlrsfused.img")
-waveletfused = read_image(r"D:/M8/Fusion_prac_data/fused/waveletfused.img")
+pcfused = read_image(r"E:/Fusion/pcfused.img")
+broveyfused = read_image(r"E:/Fusion/broveyfused.img")
+mulfused = read_image(r"E:/Fusion/mulfused.img")
+hpffused = read_image(r"E:/Fusion/hpffused.img")
+ihsfused = read_image(r"E:/Fusion/ihsfused.img")
+ehlrsfused = read_image(r"E:/Fusion/ehlersfused.img")
+waveletfused = read_image(r"E:/Fusion/waveletfused.img")
 images = [pcfused, broveyfused, mulfused, hpffused, ihsfused, ehlrsfused, waveletfused]
 
 threads = []
